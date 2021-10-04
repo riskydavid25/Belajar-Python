@@ -1,0 +1,1505 @@
+plu,category,commodity,variety,size,measurements_north_america,measurements_rest_of_world,restrictions_notes,botanical_name,aka,revision_date,date_added,gpc,image_url,image
+3000,Fruits,Apples,Alkmene,All Sizes,NA,NA,NA,Malus pumila,NA,2020-02-05,1999-12-31,NA,NA,NA
+3001,Fruits,Apples,Aurora/Southern Rose,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,2018-10-15,1999-12-31,NA,NA,NA
+3002,Fruits,Apples,Cantared,All Sizes,NA,NA,NA,Malus pumila,NA,2016-04-07,1999-12-31,NA,NA,NA
+3003,Fruits,Apples,D'Estivale,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3004,Fruits,Apples,Discovery,All Sizes,NA,NA,NA,Malus pumila,NA,2020-09-29,1999-12-31,NA,NA,NA
+3005,Fruits,Apples,Golden Delicious Blush,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3006,Fruits,Apples,Ingrid Marie,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3007,Fruits,Apples,Lochbuie,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3008,Fruits,Apples,Rubinette,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3009,Fruits,Apples,Russet,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3010,Fruits,Apples,Cripps Red,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,Sundowner,2019-02-01,1999-12-31,NA,NA,NA
+3011,Fruits,Apples,Worcester,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3012,Fruits,Pears,Abate Fetel,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3013,Fruits,Pears,Beurre Hardy,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3014,Fruits,Pears,Bon Rouge,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3015,Fruits,Pears,Clara Friis,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3016,Fruits,Pears,Concorde,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3017,Fruits,Pears,Conference,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3018,Fruits,Pears,Durondeau,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3019,Fruits,Pears,Flamingo,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3020,Fruits,Pears,General Leclerc,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3021,Fruits,Pears,Guyot,All Sizes,NA,NA,NA,Pyrus spp.,NA,2017-06-15,1999-12-31,NA,NA,NA
+3022,Fruits,Pears,Josephine,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3023,Fruits,Pears,Passe Crassane,Small,110 size and smaller,Average Fruit Weight = less than 180g,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3024,Fruits,Pears,Rocha,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3025,Fruits,Pears,Rosemarie,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3026,Fruits,Pears,Triumph de Vienne,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3027,Fruits,Oranges,Shamouti,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3028,Fruits,Oranges,Delta Seedless,Small,113 and smaller,Average Fruit Dimensions = less than 66mm,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3029,Fruits,Tangerines/Mandarins,Satsuma,All Sizes,NA,NA,"This code can be used anyplace in the globe; however, there are other codes for this item that can be used outside of North America.",Citrus unshiu,NA,1999-12-31,1999-12-31,NA,NA,NA
+3030,Fruits,Tangerines/Mandarins,"Nova (includes Clemenvilla, Suntina)",All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3031,Fruits,Tangerines/Mandarins,"Jamaican Tangor (includes Ortanique, Mandor, Mandora, Tambor, Topaz, Ortanline)",All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3032,Fruits,Tangerines/Mandarins,Ellendale,All Sizes,NA,NA,"This code can be used anyplace in the globe; however, there are other codes for this item that can be used outside of North America.",Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3033,Fruits,Melon,Charentais,Small,NA,Average Fruit Weight =  less than 625g,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+3034,Fruits,Melon,Charentais,Large,NA,Average Fruit Weight =  625g and above,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+3035,Fruits,Nectarine,"White Flesh, Tree Ripened, Ready-to-eat",Large,66 size and larger,Average Fruit Weight =  185g and above,NA,Prunus persica,NA,1999-12-31,1999-12-31,NA,NA,NA
+3036,Fruits,Oranges,Midknight,Small,113 size and smaller,Average Fruit Dimensions = less than 66mm,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3037,Fruits,Pineapple,Queen,All Sizes,NA,NA,Sizes for pineapple based on two-layer lug.,Ananas comosus,NA,1999-12-31,1999-12-31,NA,NA,NA
+3038,Fruits,Passion Fruit,"Granadilla, Orange",All Sizes,NA,NA,NA,Passiflorae.var. flavicarpa,NA,1999-12-31,1999-12-31,NA,NA,NA
+3039,Fruits,Physalis/Cape Gooseberry/Ground Cherry,NA,All Sizes,NA,NA,NA,Physalis spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3040,Fruits,Pitahaya,Red (skin color),All Sizes,NA,NA,NA,Hylocereus lindatus,NA,1999-12-31,1999-12-31,NA,NA,NA
+3041,Fruits,Rambutan,NA,All Sizes,NA,NA,NA,Nephelium lappaceum,NA,1999-12-31,1999-12-31,NA,NA,NA
+3042,Fruits,Mangosteen,NA,All Sizes,NA,NA,NA,Garcinia mangostana,NA,1999-12-31,1999-12-31,NA,NA,NA
+3043,Fruits,Grapes,"Italia, Seeded",All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+3044,Fruits,Apricots,Black,All Sizes,NA,NA,NA,Prunus armeniaca,NA,2006-11-15,2006-11-15,NA,NA,NA
+3045,Fruits,Dates,"Fresh, On Branch",All Sizes,NA,NA,NA,Phoenix dactylifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+3046,Fruits,Dates,"Fresh, Frozen",All Sizes,NA,NA,NA,Phoenix dactylifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+3047,Fruits,Dates,Medjool,All Sizes,NA,NA,NA,Phoenix dactylifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+3048,Vegetables,Beans,Helda/Flat,All Sizes,NA,NA,NA,Phaseolus vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+3049,Vegetables,Beans,Fine,All Sizes,NA,NA,NA,Phaseolus vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+3050,Vegetables,Cabbage,Dutch White/Winter White,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+3051,Vegetables,Cabbage,Spring Cabbage/Spring Greens,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+3052,Vegetables,Garlic,String,All Sizes,NA,NA,NA,Allium sativum,NA,1999-12-31,1999-12-31,NA,NA,NA
+3053,Vegetables,Parsnip,Baby,All Sizes,NA,NA,NA,Pastinaca sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+3054,Vegetables,Peppers (Capsicums),Elongated (Clovis Red/Lamuyo Red),All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3055,Vegetables,Peppers (Capsicums),Elongated (Clovis Green/Lamuyo Green),All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3056,Vegetables,Peppers (Capsicums),Elongated (Clovis Yellow/Lamuyo Yellow),All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3057,Vegetables,Peppers (Capsicums),Elongated (Clovis Orange/Lamuyo Orange),All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3058,Vegetables,Peppers (Capsicums),Elongated (Clovis White/Lamuyo White),All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3059,Vegetables,Squash,Crown Prince,All Sizes,NA,NA,NA,C.maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+3060,Vegetables,Squash,Vegetable Marrow,All Sizes,NA,NA,NA,C.pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+3061,Vegetables,Tomatoes,Beef/Beefsteak,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+3062,Herbs,Bay Leaves,NA,All Sizes,NA,NA,NA,Laurus nobilis,NA,2018-10-08,1999-12-31,NA,NA,NA
+3063,Herbs,Fennel Leaves,NA,All Sizes,NA,NA,NA,Foeniculum vulgare,NA,1999-12-31,1999-12-31,NA,NA,NA
+3064,Herbs,Aloe Vera Leaves,NA,All Sizes,NA,NA,NA,Aloe Vera,NA,1999-12-31,1999-12-31,NA,NA,NA
+3065,Fruits,Apples,Cameo,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3066,Fruits,Apples,Cameo,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3067,Fruits,Apples,Swiss Gourmet,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3068,Fruits,Apples,Swiss Gourmet,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3069,Fruits,Apples,"Gravenstein, Red",Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3070,Fruits,Apples,"Gravenstein, Red",Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3071,Fruits,Apples,"Granny Smith, Red",All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3072,Fruits,Apples,Lady,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3073,Fruits,Apples,Macoun,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3074,Fruits,Apples,Greening (RI),All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3075,Fruits,Apples,Baldwin,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3076,Fruits,Apples,Melrose,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3077,Fruits,Apples,Northern Spy,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3078,Fruits,Apples,Liberty,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3079,Vegetables,Asparagus,Purple,All Sizes,NA,NA,"This code can be used anyplace in the globe; however, there are other codes for this item that can be used outside of North America.",Asparagus officinalis,NA,1999-12-31,1999-12-31,NA,NA,NA
+3080,Fruits,Avocados,Pinkerton,All Sizes,NA,NA,NA,Persea americana,NA,1999-12-31,1999-12-31,NA,NA,NA
+3081,Fruits,Berries,Saskatoon,All Sizes,NA,NA,NA,Amelanchier alnifolia,NA,1999-12-31,1999-12-31,NA,NA,NA
+3082,Vegetables,Broccoli,Crowns,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+3083,Vegetables,Brussels Sprouts,Stalk,All Sizes,NA,NA,NA,Brassica olerace,NA,1999-12-31,1999-12-31,NA,NA,NA
+3084,Herbs,Chervil,NA,All Sizes,NA,NA,NA,Anthriscus cerefolium,NA,1999-12-31,1999-12-31,NA,NA,NA
+3085,Vegetables,Corn,"Indian, Decorative",Large,NA,NA,NA,Zea mays,NA,1999-12-31,1999-12-31,NA,NA,NA
+3086,Vegetables,Corn,Indian. Decorative,Mini,NA,NA,NA,Zea mays,NA,1999-12-31,1999-12-31,NA,NA,NA
+3087,Vegetables,Corn,"Indian, Strawberry",All Sizes,NA,NA,NA,Zea mays,NA,1999-12-31,1999-12-31,NA,NA,NA
+3088,Fruits,Currants,Red,All Sizes,NA,NA,NA,Ribes sativum,NA,1999-12-31,1999-12-31,NA,NA,NA
+3089,Vegetables,Eggplant (Aubergine),Chinese,All Sizes,NA,NA,NA,Solanum melongena,NA,1999-12-31,1999-12-31,NA,NA,NA
+3090,Vegetables,Eggplant (Aubergine),Thai,All Sizes,NA,NA,NA,Solanum melongena,NA,1999-12-31,1999-12-31,NA,NA,NA
+3091,Vegetables,Gobo Root/Burdock,NA,All Sizes,NA,NA,NA,Arctium lappa,NA,1999-12-31,1999-12-31,NA,NA,NA
+3092,Fruits,Grapefruit,OroBlanco/Sweetie,All Sizes,NA,NA,NA,Citrus paradisi,NA,1999-12-31,1999-12-31,NA,NA,NA
+3093,Fruits,Grapes,Retailer Assigned,All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+3094,Fruits,Grapes,Retailer Assigned,All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+3095,Vegetables,Kale,Multicolor,All Sizes,NA,NA,NA,Brassica oleracea,NA,2003-10-29,2003-10-29,NA,NA,NA
+3096,Vegetables,Kohlrabi,Purple/Red/All Other Colors,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+3097,Vegetables,Lettuce,"Romaine, Red",All Sizes,NA,NA,NA,Lactuca sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+3098,Vegetables,Lettuce,"Boston, Red",All Sizes,NA,NA,NA,Lactuca sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+3099,Vegetables,Lotus Root,NA,All Sizes,NA,NA,NA,Nelumbo nucifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+3100,Fruits,Melon,Gold Honeydew,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+3101,Fruits,Melon,Piel de Sapo,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+3102,Vegetables,Mushrooms,Morel,All Sizes,NA,NA,NA,Morchella angusticeps,NA,2018-10-08,1999-12-31,NA,NA,NA
+3103,Vegetables,Mushrooms,Enoki,All Sizes,NA,NA,NA,Flammulina velutipe,NA,1999-12-31,1999-12-31,NA,NA,NA
+3104,Fruits,Apples,RoHo 3615,All Sizes,NA,NA,NA,Malus domestica,Evelina,2020-04-16,2012-12-11,NA,http://check.ifpsglobal.com/file/view/3104-roho-3615-apple_1460402964.JPG,3104-roho-3615-apple_1460402964.JPG
+3105,Nuts,Cashews,NA,All Sizes,NA,NA,NA,Anacardium occidental,NA,1999-12-31,1999-12-31,NA,NA,NA
+3106,Nuts,Macadamia,NA,All Sizes,NA,NA,NA,Macadamia integrifolia,NA,1999-12-31,1999-12-31,NA,NA,NA
+3107,Fruits,Oranges,Navel,Medium,88/72 size,Average Fruit Dimensions = 66mm - under 84mm,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3108,Fruits,Oranges,Valencia,Medium,88/72 size,Average Fruit Dimensions = 66mm - under 84mm,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3109,Fruits,Oranges,Seville (Marmalade type),All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3110,Fruits,Oranges,"Navel, Cara Cara (Red)",All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3111,Fruits,Papaya/Pawpaw,Red-Fleshed (Solo Sunrise),All Sizes,NA,NA,NA,Carica papaya,NA,1999-12-31,1999-12-31,NA,NA,NA
+3112,Fruits,Papaya/Pawpaw,Meridol,All Sizes,NA,NA,NA,Carica papaya,NA,1999-12-31,1999-12-31,NA,NA,NA
+3113,Fruits,Peaches,Flat White Flesh (Saturn type),All Sizes,NA,NA,NA,NA,NA,2008-11-26,2008-11-26,NA,NA,NA
+3114,Fruits,Mango,Green,Extra Large,7 size and larger,NA,NA,Magnifera Indica,Keitt and Francis varieties,2016-04-12,2008-11-26,NA,http://check.ifpsglobal.com/file/view/3114-green-mango_1460476199.JPG,3114-green-mango_1460476199.JPG
+3115,Fruits,Peaches,Flat Yellow Flesh,All Sizes,NA,NA,NA,NA,NA,2016-04-11,2008-11-26,NA,NA,NA
+3116,Fruits,Peaches,Yellow Flesh (Tree Ripened/Ready-to-eat),Small,70 size and smaller,Average Fruit Weight =  less than 185g,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3117,Fruits,Peaches,Yellow Flesh (Tree Ripened/Ready-to-eat),Large,66 size and larger,Average Fruit Weight =  185g and above,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3118,Fruits,Pears,Starkrimson,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3119,Vegetables,Peppers (Capsicums),"Bell, Greenhouse - Green",Small,med. size and smaller,Min diameter less than 65mm,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3120,Vegetables,Peppers (Capsicums),"Bell, Greenhouse - Green",Large,large size and larger,Min diameter 65mm and above,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3121,Vegetables,Peppers (Capsicums),"Bell, Greenhouse - Orange",All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3122,Vegetables,Peppers (Capsicums),"Bell, Greenhouse - White",All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3123,Vegetables,Peppers (Capsicums),"Bell, Greenhouse - Brown",All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3124,Vegetables,Peppers (Capsicums),"Bell, Greenhouse - Purple",All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3125,Vegetables,Peppers (Capsicums),Habanero,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3126,Fruits,Plumcot (Interspecific Plum),Retailer Assigned,All Sizes,NA,NA,NA,Prunus armeniaca hybrid,NA,2008-06-03,2008-06-03,NA,NA,NA
+3127,Fruits,Pomegranate,NA,Medium,30 to 36 size,Average Fruit Dimensions = 3.375 - 3.875 inch,NA,Punica granatum,NA,2007-10-30,2007-10-30,NA,NA,NA
+3128,Vegetables,Potato,Purple,All Sizes,NA,NA,NA,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+3129,Fruits,Grapefruit,Pummelo - Red,All Sizes,NA,NA,NA,C.grandis,NA,1999-12-31,1999-12-31,NA,NA,NA
+3130,Vegetables,Pumpkin,Jumbo,All Sizes,NA,NA,NA,Cucurbita pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+3131,Vegetables,Pumpkin,Decorative (Painted),All Sizes,NA,NA,NA,Cucurbita pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+3132,Vegetables,Pumpkin,White,All Sizes,NA,NA,NA,Cucurbita pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+3133,Vegetables,Pumpkin,White - Mini,All Sizes,NA,NA,NA,Cucurbita pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+3134,Vegetables,Pumpkin,Pie Pumpkin,All Sizes,NA,NA,NA,Cucurbita pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+3135,Vegetables,Gourd,Ornamental,All Sizes,NA,NA,NA,Trichosarthes cucumerina,NA,1999-12-31,1999-12-31,NA,NA,NA
+3136,Fruits,Sapodillo/Nispero,NA,All Sizes,NA,NA,NA,Manilkara zapote,NA,1999-12-31,1999-12-31,NA,NA,NA
+3137,Fruits,Sapote,White,All Sizes,NA,NA,NA,Casimiroa edulis,NA,1999-12-31,1999-12-31,NA,NA,NA
+3138,Fruits,Sapote,Black,All Sizes,NA,NA,NA,Diospyros digyna,NA,1999-12-31,1999-12-31,NA,NA,NA
+3139,Herbs,Savory,NA,All Sizes,NA,NA,NA,Satureja spp.,NA,2018-10-08,1999-12-31,NA,NA,NA
+3140,Vegetables,Squash,Cucuzza,All Sizes,NA,NA,NA,C.pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+3141,Vegetables,Squash,Opo,All Sizes,NA,NA,NA,Langenaria siceraria,NA,1999-12-31,1999-12-31,NA,NA,NA
+3142,Vegetables,Squash,Carnival,All Sizes,NA,NA,NA,C.pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+3143,Vegetables,Squash,Acorn - baby,All Sizes,NA,NA,NA,C.pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+3144,Fruits,Tangerines/Mandarins,Fall Glo,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3145,Vegetables,Tomatoes,Plum/Italian/Saladette/Roma (Yellow),All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+3146,Vegetables,Tomatoes,"Cherry - Red, On the Vine",All Sizes,NA,Up to and including 35mm diam,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+3147,Vegetables,Tomatoes,"Cherry - Yellow, On the Vine",All Sizes,NA,Up to and including 35mm diam,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+3148,Vegetables,Tomatoes,"Regular - Yelllow, On the Vine (Truss)",All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+3149,Vegetables,Tomatoes,"Regular - Orange, On the Vine",All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+3150,Vegetables,Tomatoes,Cocktail/Intermediate - Red,All Sizes,NA,35 - 40mm diameter,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+3151,Vegetables,Tomatoes,"Vine Ripe, Regular - Red",Large,5X6 and larger,Diameter 70mm and above,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+3152,Fruits,Grapefruit,Melogold,All Sizes,NA,NA,NA,C.grandis,NA,1999-12-31,1999-12-31,NA,NA,NA
+3153,Fruits,Oranges,Delta Seedless,Medium,88/72 size,Average Fruit Dimensions = 66mm - under 84mm,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3154,Fruits,Oranges,Delta Seedless,Large,56 size and larger,Average Fruit Dimensions = 84mm and above,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3155,Fruits,Oranges,Midknight,Medium,88/72 size,Average Fruit Dimensions = 66mm - under 84mm,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3156,Fruits,Oranges,Midknight,Large,56 size and larger,Average Fruit Dimensions = 84mm and above,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+3157,Fruits,Grapefruit,White,Extra Large,27 size and larger,NA,Restricted for items grown east of the Mississippi River in the U.S or east of the Ontario/Manitoba border in Canada.,Citrus paradisi,NA,2002-05-02,2002-05-02,NA,NA,NA
+3158,Fruits,Grapefruit,White,Extra Large,27 size and larger,NA,"Restricted for items grown in Texas, Arizona and New Mexico in the U.S.",Citrus paradisi,NA,1999-12-31,1999-12-31,NA,NA,NA
+3159,Fruits,Grapefruit,White,Extra Large,27 size and larger,Average Fruit Dimensions = 108mm and above,NA,Citrus paradisi,NA,1999-12-31,1999-12-31,NA,NA,NA
+3160,Vegetables,Gai Lan,Synonymous with Chinese Broccoli,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+3161,Vegetables,Gai (Gui) Choy (Chinese Or Indian Mustard),Baby - Chinese or Indian Mustard,All Sizes,NA,NA,NA,Brassica juncea,NA,1999-12-31,1999-12-31,NA,NA,NA
+3162,Vegetables,Ong Choy,Synonymous with Water Spinach,All Sizes,NA,NA,NA,Ipomoea aquatica,NA,1999-12-31,1999-12-31,NA,NA,NA
+3163,Vegetables,Bok Choy (Pak Choi),Shanghai,All Sizes,NA,NA,NA,Brassica rapa,NA,1999-12-31,1999-12-31,NA,NA,NA
+3164,Vegetables,Yu Choy,NA,All Sizes,NA,NA,NA,Brassica rapa,NA,1999-12-31,1999-12-31,NA,NA,NA
+3165,Vegetables,Radicchio,Treviso,All Sizes,NA,NA,NA,Cichorium intybus,NA,1999-12-31,1999-12-31,NA,NA,NA
+3166,Vegetables,Cabbage,Tuscan,All Sizes,NA,NA,Identified lacinato kale and tuscan cabbage one and the same,Brassica oleracea,Lacinato Kale,2013-05-06,2013-05-06,NA,NA,NA
+3167,Vegetables,Frisee,NA,All Sizes,NA,NA,NA,Cichorium endivia,NA,1999-12-31,1999-12-31,NA,NA,NA
+3168,Vegetables,Radicchio,Castlefranco,All Sizes,NA,NA,NA,Cichorium intybus,NA,1999-12-31,1999-12-31,NA,NA,NA
+3169,Vegetables,Lettuce,Catalogna,All Sizes,NA,NA,NA,Lactuca sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+3170,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3171,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3172,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3173,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3174,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3175,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3176,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3177,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3178,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3179,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3180,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3181,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3182,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3183,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3184,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3185,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3186,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3187,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3188,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3189,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3190,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3191,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3192,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3193,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3194,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3195,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3196,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3197,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3198,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3199,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3200,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3201,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3202,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3203,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3204,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3205,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3206,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3207,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3208,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3209,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3210,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3211,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3212,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3213,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3214,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3215,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3216,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3217,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3218,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3219,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3220,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3221,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3222,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3223,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3224,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3225,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3226,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3227,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3228,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3229,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3230,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3231,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3232,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3233,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3234,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3235,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3236,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3237,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3238,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3239,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3240,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3241,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3242,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3243,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3244,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3245,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3246,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3247,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3248,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3249,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3250,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3251,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3252,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3253,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3254,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3255,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3256,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3257,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3258,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3259,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3260,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3261,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3262,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3263,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3264,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3265,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3266,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3267,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3268,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3269,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3270,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+3271,Fruits,Apples,Virginia Gold,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3272,Fruits,Apples,Sommerfeld,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+3273,Vegetables,Beets,Golden,All Sizes,NA,NA,NA,Beta vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+3274,Fruits,Prunes,Fresh,All Sizes,NA,NA,NA,Prunus domestica,NA,1999-12-31,1999-12-31,NA,NA,NA
+3275,Vegetables,Name,Yellow (nyAH-may),All Sizes,NA,NA,NA,Dioscorea trifidia,NA,1999-12-31,1999-12-31,NA,NA,NA
+3276,Vegetables,Name,White (nyAH-may),All Sizes,NA,NA,NA,Dioscorea trifidia,NA,1999-12-31,1999-12-31,NA,NA,NA
+3277,Vegetables,Broccoli,Baby,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+3278,Fruits,Plumcot (Interspecific Plum),NA,All Sizes,NA,NA,A hybrid of plum and other species of stone fruit (primarily apricot) exhibiting more plum-like characteristics.,Prunus spp.,Pluot®,2008-06-03,2008-06-03,NA,NA,NA
+3279,Fruits,Kiwifruit,Golden,All Sizes,NA,NA,NA,A.chinensis,NA,1999-12-31,1999-12-31,NA,NA,NA
+3280,Fruits,Kiwifruit,Regular,Jumbo,22 size and larger,Average Fruit Weight =  150g and above,NA,Actinidia deliciosa,NA,1999-12-31,1999-12-31,NA,NA,NA
+3281,Fruits,Melon,"Watermelon - Orange, Seedless",All Sizes,NA,NA,NA,Citrullus lanatus,NA,2000-01-01,2000-01-01,NA,NA,NA
+3282,Vegetables,Tomatoes,Plum/Italian/Saladette/Roma on the vine - Red,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,2000-01-01,2000-01-01,NA,NA,NA
+3283,Fruits,Apples,Honeycrisp,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,2016-03-01,2000-01-01,NA,NA,NA
+3284,Fruits,Apples,Red Delicious,Extra Large,64 size and larger,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,2000-01-01,2000-01-01,NA,NA,NA
+3285,Fruits,Apples,Golden Delicious,Extra Large,64 size and larger,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,2000-01-01,2000-01-01,NA,NA,NA
+3286,Vegetables,Onions,Sweet red Italian - flat,All Sizes,NA,NA,NA,Allium spp.,NA,2000-01-01,2000-01-01,NA,NA,NA
+3287,Fruits,Bananas,Hawaiian plantain,All Sizes,NA,NA,NA,Musa spp.,NA,2000-01-01,2000-01-01,NA,NA,NA
+3288,Vegetables,Sweet Potato/Yam/Kumara,Retailer Assigned,All Sizes,NA,NA,Terminology used to include both sweet potato and yam,Ipomoea batato,NA,2009-06-10,2009-06-10,NA,NA,NA
+3289,Fruits,Melon,Sprite,All Sizes,NA,NA,NA,Cucumis melo,NA,2002-05-02,2002-05-02,NA,NA,NA
+3290,Fruits,Apples,Aurora/Southern Rose,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,2002-10-16,2002-10-16,NA,NA,NA
+3291,Fruits,Apples,Boskoop/Belle de Boskoop,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,2002-10-16,2002-10-16,NA,NA,NA
+3292,Fruits,Apples,Boskoop/Belle de Boskoop,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,2002-10-16,2002-10-16,NA,NA,NA
+3293,Fruits,Apples,Scifresh,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,Jazz,2002-10-16,2002-10-16,NA,NA,NA
+3294,Fruits,Apples,Scifresh,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,Jazz,2002-10-16,2002-10-16,NA,NA,NA
+3295,Fruits,Apples,Sciearly,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,Pacific Beauty,2002-10-16,2002-10-16,NA,NA,NA
+3296,Fruits,Apples,Sciearly,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,Pacific Beauty,2002-10-16,2002-10-16,NA,NA,NA
+3297,Fruits,Apples,Scired,All Sizes,NA,NA,NA,Malus pumila,Pacific Queen,2002-10-16,2002-10-16,NA,NA,NA
+3298,Fruits,Apples,Redfield,All Sizes,NA,NA,NA,Malus domestica,Mahana Red,2019-01-24,2012-12-21,NA,http://check.ifpsglobal.com/file/view/3298-redfield-apple_1460404707.jpg,3298-redfield-apple_1460404707.jpg
+3299,Fruits,Apples,Sonya,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,2002-10-16,2002-10-16,NA,NA,NA
+3300,Fruits,Apples,Sonya,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,2002-10-16,2002-10-16,NA,NA,NA
+3301,Fruits,Apples,Cripps Red,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,Sundowner,2002-10-16,2002-10-16,NA,NA,NA
+3302,Fruits,Apricots,Regular,Large,"Greater than or equal to 2-3/16 inch, Greater than or equal to 55 mm Average Fruit Dimensions",NA,NA,Prunus armeniaca,NA,2002-10-16,2002-10-16,NA,NA,NA
+3303,Fruits,Babaco,NA,All Sizes,NA,NA,NA,NA,NA,2002-10-16,2002-10-16,NA,NA,NA
+3304,Fruits,Berries,Loganberries,All Sizes,NA,NA,NA,Rubus loganobaccus,NA,2002-10-16,2002-10-16,NA,NA,NA
+3305,Fruits,Currants,Black,All Sizes,NA,NA,NA,Ribes nigrum,NA,2002-10-16,2002-10-16,NA,NA,NA
+3306,Fruits,Melon,Charentais,Medium,NA,NA,NA,Cucumis melo,NA,2002-10-16,2002-10-16,NA,NA,NA
+3307,Fruits,Melon,Charentais,Extra Large,NA,NA,NA,Cucumis melo,NA,2002-10-16,2002-10-16,NA,NA,NA
+3308,Fruits,Melon,"Watermelon - Orange, Seedless",All Sizes,NA,NA,NA,Citrullus lanatus,NA,2002-10-16,2002-10-16,NA,NA,NA
+3309,Fruits,Oranges,Lima,All Sizes,NA,NA,NA,Citrus spp.,NA,2002-10-16,2002-10-16,NA,NA,NA
+3310,Fruits,Oranges,Pera,All Sizes,NA,NA,NA,Citrus spp.,NA,2002-10-16,2002-10-16,NA,NA,NA
+3311,Fruits,Passion Fruit,Curuba/Banana,All Sizes,NA,NA,NA,Passiflora mollissima,NA,2002-10-16,2002-10-16,NA,NA,NA
+3312,Fruits,Passion Fruit,Granadilla - Yellow/Maracuja,All Sizes,NA,NA,NA,Passiflorae.var. flavicarpa,NA,2002-10-16,2002-10-16,NA,NA,NA
+3313,Fruits,Peaches,White Flesh - Tree Ripened/ Ready-to-eat,Small,NA,NA,NA,NA,NA,2002-10-16,2002-10-16,NA,NA,NA
+3314,Fruits,Peaches,White Flesh - Tree Ripened/ Ready-to-eat,Large,NA,NA,NA,NA,NA,2002-10-16,2002-10-16,NA,NA,NA
+3315,Fruits,Apples,Scilate,Small,100 size and smaller,NA,NA,Malus domestica,ENVY,2016-04-11,2013-05-06,NA,NA,NA
+3316,Fruits,Pears,Carmen,All Sizes,NA,NA,NA,Pyrus spp.,NA,2016-04-11,2013-05-06,NA,http://check.ifpsglobal.com/file/view/3316-carmen-pear_1460403392.jpg,3316-carmen-pear_1460403392.jpg
+3317,Fruits,Pears,Angelys,All Sizes,NA,NA,NA,Pyrus spp.,NA,2018-10-08,2013-08-21,NA,http://check.ifpsglobal.com/file/view/3317-angelys-pear_1460402454.jpg,3317-angelys-pear_1460402454.jpg
+3318,Fruits,Pears,Passe Crassane,Large,100 size and larger,Average Fruit Weight = 180g and above,NA,Pyrus spp.,NA,2002-10-16,2002-10-16,NA,NA,NA
+3319,Fruits,Pitahaya,Yellow (skin color),All Sizes,NA,NA,NA,Hylocereus lindatus,NA,2002-10-16,2002-10-16,NA,NA,NA
+3320,Vegetables,Cauliflower,Romanesco/Broccoflower/Caulibroc,All Sizes,NA,NA,NA,Brassica oleracea,NA,2002-10-16,2002-10-16,NA,NA,NA
+3321,Vegetables,Celery Root/Celeriac,With leaves attached,All Sizes,NA,NA,NA,Apium graveolens,NA,2002-10-16,2002-10-16,NA,NA,NA
+3322,Vegetables,Choy Sum/Pak Choi Sum,NA,All Sizes,NA,NA,NA,Brassica rapa,NA,2002-10-16,2002-10-16,NA,NA,NA
+3323,Vegetables,Choy Sum/Pak Choi Sum,Baby,All Sizes,NA,NA,NA,Brassica rapa,NA,2002-10-16,2002-10-16,NA,NA,NA
+3324,Vegetables,Escarole/Batavian Chicory,Red,All Sizes,NA,NA,NA,Cichorium endivia,NA,2018-10-08,2002-10-16,NA,NA,NA
+3325,Vegetables,Lettuce,Lollo Bionda/Coral - Green,All Sizes,NA,NA,NA,Lactuca sativa,NA,2018-10-08,2002-10-16,NA,NA,NA
+3326,Vegetables,Lettuce,Lollo Rossa/Coral - Red,All Sizes,NA,NA,NA,Lactuca sativa,NA,2018-10-08,2002-10-16,NA,NA,NA
+3327,Vegetables,Lettuce,Mignonette (Compact red-tinged butterhead varieties),All Sizes,NA,NA,NA,Lactuca sativa,NA,2002-10-16,2002-10-16,NA,NA,NA
+3328,Vegetables,Lettuce,"Mixed small-leaf salad (eg Sucrine, Mesclun, Rocket/Arugula)",All Sizes,NA,NA,NA,Lactuca sativa,NA,2018-10-08,2002-10-16,NA,NA,NA
+3329,Vegetables,Lettuce,Oak Leaf - Green,All Sizes,NA,NA,NA,Lactuca sativa,NA,2018-10-08,2002-10-16,NA,NA,NA
+3330,Vegetables,Lettuce,Oak Leaf - Reg,All Sizes,NA,NA,NA,Lactuca sativa,NA,2018-10-08,2002-10-16,NA,NA,NA
+3331,Vegetables,Onions,Red Fresh - Bunch,All Sizes,NA,NA,NA,Allium spp.,NA,2002-10-16,2002-10-16,NA,NA,NA
+3332,Vegetables,Spinach,Baby,All Sizes,NA,NA,NA,Spinach oleracea,NA,2002-10-16,2002-10-16,NA,NA,NA
+3333,Vegetables,Sweet Potato/Yam/Kumara,Red/Orangy White Flesh,Small,NA,NA,NA,Ipomoea batato,NA,2002-10-16,2002-10-16,NA,NA,NA
+3334,Vegetables,Sweet Potato/Yam/Kumara,Red/Orangy White Flesh,Large,NA,NA,NA,Ipomoea batato,NA,2002-10-16,2002-10-16,NA,NA,NA
+3335,Vegetables,Tomatoes,Cocktail/Intermediate - Red/On the Vine (Truss),All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,2002-10-16,2002-10-16,NA,NA,NA
+3336,Vegetables,Tomatoes,Cocktail/Intermediate - Red/Plum/Italian/Saladette/Roma/On the Vine (Truss),All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,2002-10-16,2002-10-16,NA,NA,NA
+3337,Dried Fruits,Figs,(Dried Fruit),All Sizes,NA,NA,NA,Ficus carica,NA,2002-10-16,2002-10-16,NA,NA,NA
+3338,Herbs,Anise,NA,All Sizes,NA,NA,NA,NA,NA,2002-10-16,2002-10-16,NA,NA,NA
+3339,Fruits,Apples,Belchard - Chantecler,All Sizes,NA,NA,NA,Malus pumila,NA,2004-11-01,2004-11-01,NA,NA,NA
+3340,Fruits,Apples,Bertanne/Golden Russet,All Sizes,NA,NA,NA,Malus pumila,NA,2004-11-01,2004-11-01,NA,NA,NA
+3341,Fruits,Apples,Charles Ross,All Sizes,NA,NA,NA,Malus pumila,NA,2004-11-01,2004-11-01,NA,NA,NA
+3342,Fruits,Apples,Delblush,All Sizes,NA,NA,NA,Malus pumila domestica,Tentation,2018-10-08,2004-11-01,NA,NA,NA
+3343,Fruits,Apples,Dessert,All Sizes,NA,NA,NA,Malus pumila,NA,2004-11-01,2004-11-01,NA,NA,NA
+3344,Fruits,Apples,Gloster,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,2004-11-01,2004-11-01,NA,NA,NA
+3345,Fruits,Apples,Gloster,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,2004-11-01,2004-11-01,NA,NA,NA
+3346,Fruits,Apples,Holstein,All Sizes,NA,NA,NA,Malus pumila,NA,2004-11-01,2004-11-01,NA,NA,NA
+3347,Fruits,Apples,Laxtons Fortune,All Sizes,NA,NA,NA,Malus pumila,NA,2004-11-01,2004-11-01,NA,NA,NA
+3348,Fruits,Apples,Lord Lambourne,All Sizes,NA,NA,NA,Malus pumila,NA,2004-11-01,2004-11-01,NA,NA,NA
+3349,Fruits,Apples,Michaelmas Red,All Sizes,NA,NA,NA,Malus pumila,NA,2004-11-01,2004-11-01,NA,NA,NA
+3350,Fruits,Apples,Reine des Reinettes/King of the Pippins,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,2004-11-01,2004-11-01,NA,NA,NA
+3351,Fruits,Apples,Reine des Reinettes/King of the Pippins,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,2004-11-01,2004-11-01,NA,NA,NA
+3352,Fruits,Apples,"Reinettes and Heritage varieties - (incl Canada blanc Reinette du Mans, Armorique/du Vigan/Calville",All Sizes,NA,NA,NA,Malus pumila,NA,2004-11-01,2004-11-01,NA,NA,NA
+3353,Fruits,Apples,St Edmunds Pippin,All Sizes,NA,NA,NA,Malus pumila,NA,2004-11-01,2004-11-01,NA,NA,NA
+3354,Fruits,Avocados,Ripe/Ready-to-Eat,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Persea americana,NA,2018-10-08,2002-10-16,NA,NA,NA
+3355,Fruits,Berries,Strawberries - Nominal 500g/1 litre,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Fragaria ananassa,NA,2002-10-16,2002-10-16,NA,NA,NA
+3356,Fruits,Berries,Strawberries - Nominal250g/1/2 litre,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Fragaria ananassa,NA,2002-10-16,2002-10-16,NA,NA,NA
+3357,Fruits,Cherries,Regular/Red/Black,Small,NA,NA,Restricted from ANY use in Canada or the U.S.,Prunus spp.,NA,2002-10-16,2002-10-16,NA,NA,NA
+3358,Fruits,Cherries,Regular/Red/Black,Large,NA,NA,Restricted from ANY use in Canada or the U.S.,Prunus spp.,NA,2002-10-16,2002-10-16,NA,NA,NA
+3359,Fruits,Grapes,Chasselas,All Sizes,NA,NA,NA,Vitis vinifera,NA,2004-11-01,2004-11-01,NA,NA,NA
+3360,Fruits,Grapes,Muscat de Hambourg,All Sizes,NA,NA,NA,Vitis vinifera,NA,2004-11-01,2004-11-01,NA,NA,NA
+3361,Fruits,Grapefruit,Without p/harvest treatment,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus paradisi,NA,2002-10-16,2002-10-16,NA,NA,NA
+3362,Fruits,Lemons,Without postharvest treatment,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus limon,NA,2002-10-16,2002-10-16,NA,NA,NA
+3363,Fruits,Mango,Bowen & Kensington Pride,All Sizes,NA,NA,NA,Mangifera indica,NA,2002-10-16,2002-10-16,NA,NA,NA
+3364,Fruits,Mango,R2E2 (ArtwoEetwo),All Sizes,NA,NA,NA,Mangifera indica,NA,2002-10-16,2002-10-16,NA,NA,NA
+3365,Fruits,Mango,Ripe/Ready-to-Eat,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Mangifera indica,NA,2002-10-16,2002-10-16,NA,NA,NA
+3366,Fruits,Madroña,NA,All Sizes,NA,NA,NA,Arbutus unedo,NA,2002-10-16,2002-10-16,NA,NA,NA
+3367,Fruits,Melon,Glasshouse - Netted varieties,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Cucumis melo,NA,2018-10-08,2002-10-16,NA,NA,NA
+3368,Fruits,Melon,Ogen,All Sizes,NA,NA,NA,Cucumis melo,NA,2004-11-01,2004-11-01,NA,NA,NA
+3369,Fruits,Nectarine,Nectavigne (Red Flesh),All Sizes,NA,NA,NA,Prunus persica,NA,2004-11-01,2004-11-01,NA,NA,NA
+3370,Fruits,Oranges,Maltaise,All Sizes,NA,NA,NA,Citrus spp.,NA,2004-11-01,2004-11-01,NA,NA,NA
+3371,Fruits,Oranges,Salustiana,All Sizes,NA,NA,NA,Citrus spp.,NA,2004-11-01,2004-11-01,NA,NA,NA
+3372,Fruits,Oranges,Navelate (and other late Navel varieties),All Sizes,NA,NA,NA,Citrus spp.,NA,2002-10-16,2002-10-16,NA,NA,NA
+3373,Fruits,Oranges,Navelina (incl. Newhall),All Sizes,NA,NA,NA,Citrus spp.,NA,2004-11-01,2004-11-01,NA,NA,NA
+3374,Fruits,Oranges,Without postharvest treatment,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus spp.,NA,2002-10-16,2002-10-16,NA,NA,NA
+3375,Fruits,Peaches,de Vigne & Sanguine (Red Flesh),All Sizes,NA,NA,NA,NA,NA,2004-11-01,2004-11-01,NA,NA,NA
+3376,Fruits,Pears,Alexander Lucas,All Sizes,NA,NA,NA,Pyrus spp.,NA,2004-11-01,2004-11-01,NA,NA,NA
+3377,Fruits,Pears,Louise Bonne,All Sizes,NA,NA,NA,Pyrus spp.,NA,2004-11-01,2004-11-01,NA,NA,NA
+3378,Fruits,Pears,Santa Maria,All Sizes,NA,NA,NA,Pyrus spp.,NA,2004-11-01,2004-11-01,NA,NA,NA
+3379,Fruits,Pineapple,Mini,All Sizes,NA,NA,Sizes for pineapple based on two-layer lug.,Ananas comosus,NA,2004-11-01,2004-11-01,NA,NA,NA
+3380,Fruits,Pineapple,Perola,All Sizes,NA,NA,Sizes for pineapple based on two-layer lug.,Ananas comosus,NA,2004-11-01,2004-11-01,NA,NA,NA
+3381,Fruits,Soursop,NA,All Sizes,NA,NA,NA,Annona muricata,NA,2002-10-16,2002-10-16,NA,NA,NA
+3382,Fruits,Sugar Apple,NA,All Sizes,NA,NA,NA,Annona squamosa,NA,2002-10-16,2002-10-16,NA,NA,NA
+3383,Fruits,Tangerines/Mandarins,Clementine,Small,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus reticulata,NA,2002-10-16,2002-10-16,NA,NA,NA
+3384,Fruits,Tangerines/Mandarins,Clementine,Medium,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus reticulata,NA,2002-10-16,2002-10-16,NA,NA,NA
+3385,Fruits,Tangerines/Mandarins,Clementine,Large,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus reticulata,NA,2002-10-16,2002-10-16,NA,NA,NA
+3386,Fruits,Tangerines/Mandarins,Clementine (With leaves attached),All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus reticulata,NA,2002-10-16,2002-10-16,NA,NA,NA
+3387,Fruits,Tangerines/Mandarins,Clementine (Without p/harvest treatment),All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus reticulata,NA,2002-10-16,2002-10-16,NA,NA,NA
+3388,Fruits,Tangerines/Mandarins,Satsuma -Clauselina,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus unshiu,NA,2002-10-16,2002-10-16,NA,NA,NA
+3389,Fruits,Tangerines/Mandarins,Satsuma,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus unshiu,NA,2002-10-16,2002-10-16,NA,NA,NA
+3390,Vegetables,Arracach,NA,All Sizes,NA,NA,NA,Arracacia xanthorrhiza,NA,2018-10-08,2002-10-16,NA,NA,NA
+3391,Vegetables,Artichokes,Rouge Salambo (Red),All Sizes,NA,NA,NA,Cynara scolymus,NA,2018-10-08,2004-11-01,NA,NA,NA
+3392,Vegetables,Asparagus,Green - Bunch,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Asparagus officinalis,NA,2002-10-16,2002-10-16,NA,NA,NA
+3393,Vegetables,Asparagus,White - Bunch,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Asparagus officinalis,NA,2002-10-16,2002-10-16,NA,NA,NA
+3394,Vegetables,Asparagus,Purple - Bunch,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Asparagus officinalis,NA,2002-10-16,2002-10-16,NA,NA,NA
+3395,Vegetables,Belgian Endive (Witloof Chicory),Red,All Sizes,NA,NA,NA,Cichorium intybus,NA,2004-11-01,2004-11-01,NA,NA,NA
+3396,Vegetables,Cabbage,"Savoy, Red",All Sizes,NA,NA,NA,Brassica oleracea,NA,2004-11-01,2004-11-01,NA,NA,NA
+3397,Vegetables,Cabbage,Summer Cabbage - Pointed type,All Sizes,NA,NA,NA,Brassica oleracea,NA,2002-10-16,2002-10-16,NA,NA,NA
+3398,Vegetables,Chickpeas,Chickpeas/Garbanzo,All Sizes,NA,NA,NA,Cicer arientinum,NA,2002-10-16,2002-10-16,NA,NA,NA
+3399,Vegetables,Garlic,Regular - Fresh/Semi-dried with leaves attached,All Sizes,NA,NA,NA,Allium sativum,NA,2002-10-16,2002-10-16,NA,NA,NA
+3400,Vegetables,Garlic,Regular - Smoked,All Sizes,NA,NA,NA,Allium sativum,NA,2002-10-16,2002-10-16,NA,NA,NA
+3401,Vegetables,Garlic,One-clove types,All Sizes,NA,NA,NA,Allium sativum,NA,2002-10-16,2002-10-16,NA,NA,NA
+3402,Vegetables,Leeks,Regular - Bunch,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Allium ampeloprasum,NA,2002-10-16,2002-10-16,NA,NA,NA
+3403,Vegetables,Leeks,Baby - Bunch,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Allium ampeloprasum,NA,2002-10-16,2002-10-16,NA,NA,NA
+3404,Vegetables,Mushrooms,Cep,All Sizes,NA,NA,NA,Bolelus edulis,NA,2004-11-01,2004-11-01,NA,NA,NA
+3405,Vegetables,Mushrooms,Fairy Ring Champignon,All Sizes,NA,NA,NA,Marasmius oreades,NA,2004-11-01,2004-11-01,NA,NA,NA
+3406,Vegetables,Mushrooms,Grey - Tricholoma,All Sizes,NA,NA,NA,Tricholoma terreum,NA,2004-11-01,2004-11-01,NA,NA,NA
+3407,Vegetables,Mushrooms,Grisette,All Sizes,NA,NA,NA,Amanita vaginata,NA,2004-11-01,2004-11-01,NA,NA,NA
+3408,Vegetables,Mushrooms,Horn of Plenty/Black Trumpet,All Sizes,NA,NA,NA,Agaricus bisporus,NA,2004-11-01,2004-11-01,NA,NA,NA
+3409,Vegetables,Mushrooms,Pioppino,All Sizes,NA,NA,NA,Agaricus bisporus,NA,2004-11-01,2004-11-01,NA,NA,NA
+3410,Vegetables,Mushrooms,Saffron Milk-Cap,All Sizes,NA,NA,NA,Lactarius deliciosus,NA,2004-11-01,2004-11-01,NA,NA,NA
+3411,Vegetables,Mushrooms,Sheep Polypore,All Sizes,NA,NA,NA,Albatrellus ovinus (tbc),NA,2004-11-01,2004-11-01,NA,NA,NA
+3412,Vegetables,Onions,Yellow/Brown Fresh - Bunch,All Sizes,NA,NA,NA,Allium spp.,NA,2002-10-16,2002-10-16,NA,NA,NA
+3413,Vegetables,Peppers (Capsicums),Tabasco,All Sizes,NA,NA,NA,Capsicum spp,NA,2002-10-16,2002-10-16,NA,NA,NA
+3414,Vegetables,Potato,Baking - White,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Solanum tuberosum,NA,2002-10-16,2002-10-16,NA,NA,NA
+3415,Vegetables,Potato,Baking - Red and Red Eye varieties,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Solanum tuberosum,NA,2002-10-16,2002-10-16,NA,NA,NA
+3416,Vegetables,Rhubarb,Bunch,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Rheem X hybridum,NA,2004-11-01,2004-11-01,NA,NA,NA
+3417,Vegetables,Spinach,New Zealand Spinach,All Sizes,NA,NA,Restricted from ANY use in Canada or the U.S.,Tetragonia tetragonioides,NA,2002-10-16,2002-10-16,NA,NA,NA
+3418,Vegetables,Squash,Zucchini/Courgette - Round,All Sizes,NA,NA,NA,C.pepo,NA,2004-11-01,2004-11-01,NA,NA,NA
+3419,Herbs,Borage,NA,All Sizes,NA,NA,NA,Borago officinalis,NA,2004-11-01,2004-11-01,NA,NA,NA
+3420,Fruits,Pears,Belle du Jumet,All Sizes,NA,NA,NA,Pyrus spp.,Honey Belle,2018-10-08,2014-01-29,NA,http://check.ifpsglobal.com/file/view/3420-belle-du-jumet-pear_1460403141.JPG,3420-belle-du-jumet-pear_1460403141.JPG
+3421,Fruits,Melon,Watermelon - Mini Seedless,3-7 Lbs,NA,NA,NA,Citrullus lanatus,NA,2017-01-04,2003-08-05,NA,NA,NA
+3422,Fruits,Apricots,InterSpecific,All Sizes,NA,NA,A hybrid of apricot and plum varieties exhibiting more apricot-like characteristics.,Prunus armeniaca,NA,2003-08-05,2003-08-05,NA,NA,NA
+3423,Vegetables,Tomatoes,Heirloom ,All Sizes,NA,NA,NA,Lycopersicon esculenta,"Varieties include but are not limited to: Amish Salad, Anna Russian, Aunt Ruby's Yellow Cherry, Big Italian Plum, Black Plum, Black Prince, Black Zebra, Brandywine, Dr. Caroline, Earl of Edgecomb, Eva Purple Ball, Flamme, Green Zebra, Hawaiian Pineapple",2015-10-13,2003-08-05,NA,NA,NA
+3424,Vegetables,Carrots,Purple/Red - Beta Sweet,All Sizes,NA,NA,NA,Daucus carota,NA,2002-10-16,2002-10-16,NA,NA,NA
+3425,Fruits,Tangerines/Mandarins,Ellendale,Small,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus spp.,NA,2003-10-03,2003-10-03,NA,NA,NA
+3426,Fruits,Tangerines/Mandarins,Ellendale,Medium,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus spp.,NA,2003-10-03,2003-10-03,NA,NA,NA
+3427,Fruits,Tangerines/Mandarins,Ellendale,Large,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus spp.,NA,2003-10-03,2003-10-03,NA,NA,NA
+3428,Fruits,Tangerines/Mandarins,Honey/Murcott,Small,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus spp.,NA,2003-10-03,2003-10-03,NA,NA,NA
+3429,Fruits,Tangerines/Mandarins,Honey/Murcott,Medium,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus spp.,NA,2003-10-03,2003-10-03,NA,NA,NA
+3430,Fruits,Tangerines/Mandarins,Honey/Murcott,Large,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus spp.,NA,2003-10-03,2003-10-03,NA,NA,NA
+3431,Fruits,Tangerines/Mandarins,Imperial,Small,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus spp.,NA,2003-10-03,2003-10-03,NA,NA,NA
+3432,Fruits,Tangerines/Mandarins,Imperial,Medium,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus spp.,NA,2003-10-03,2003-10-03,NA,NA,NA
+3433,Fruits,Tangerines/Mandarins,Imperial,Large,NA,NA,Restricted from ANY use in Canada or the U.S.,Citrus spp.,NA,2003-10-03,2003-10-03,NA,NA,NA
+3434,Fruits,Pears,Tosca,All Sizes,NA,NA,NA,Pyrus spp.,NA,2006-05-24,2006-05-24,NA,NA,NA
+3435,Fruits,Apples,Pinova,All Sizes,NA,NA,NA,Malus pumila,NA,2006-05-24,2006-05-24,NA,NA,NA
+3436,Vegetables,Cauliflower,Orange,All Sizes,NA,NA,NA,Brassica oleracea,NA,2006-05-24,2006-05-24,NA,NA,NA
+3437,Fruits,Nectarine,Flat Yellow,All Sizes,NA,NA,NA,Prunus persica,NA,2006-05-24,2006-05-24,NA,NA,NA
+3438,Fruits,Apples,Ambrosia,All Other Sizes,NA,NA,NA,Malus pumila,NA,2018-11-01,2006-05-24,NA,NA,NA
+3439,Fruits,Nectarine,White Flesh Flat,All Sizes,NA,NA,NA,Prunus persica,NA,2007-10-23,2007-10-23,NA,NA,NA
+3440,Fruits,Pomegranate,NA,Large,24 size and larger,Average Fruit Dimensions = 4.25 and larger,NA,Punica granatum,NA,2016-06-20,2007-10-30,NA,http://check.ifpsglobal.com/file/view/3440-large-pomegranate_1486484749.JPG,3440-large-pomegranate_1486484749.JPG
+3441,Vegetables,Squash,Butterkin,All Sizes,NA,NA,NA,Cucurbita moshata,NA,2018-10-08,2014-05-15,NA,http://check.ifpsglobal.com/file/view/3441-butterkin-squash_1460403302.jpg,3441-butterkin-squash_1460403302.jpg
+3442,Fruits,Apples,New York 1,All Sizes,NA,NA,NA,Malus domestica,SnapDragon,2018-10-08,2014-09-05,NA,http://check.ifpsglobal.com/file/view/3442-new-york-1-apple_1460475041.JPG,3442-new-york-1-apple_1460475041.JPG
+3443,Fruits,Apples,New York 2,All Sizes,NA,NA,NA,Malus domestica,RubyFrost,2018-10-08,2014-09-05,NA,http://check.ifpsglobal.com/file/view/3443-new-york-2-apple_1460475001.jpg,3443-new-york-2-apple_1460475001.jpg
+3444,Fruits,Apples,Green Dragon,All Sizes,NA,NA,NA,Malus domestica,Chin Loung,2018-10-08,2014-09-05,NA,http://check.ifpsglobal.com/file/view/3444-green-dragon-apple_1460404396.jpg,3444-green-dragon-apple_1460404396.jpg
+3445,Fruits,Apples,DS 3,All Sizes,NA,NA,NA,Malus domestica,Pazazz,2018-10-08,2014-09-05,NA,http://check.ifpsglobal.com/file/view/3445-ds-3-apple_1460471946.jpg,3445-ds-3-apple_1460471946.jpg
+3446,Vegetables,Kale Sprouts,NA,All Sizes,NA,NA,NA,Brassica Oleracea,NA,2018-10-08,2014-12-02,NA,http://check.ifpsglobal.com/file/view/3446-kale-sprouts_1460404608.jpg,3446-kale-sprouts_1460404608.jpg
+3447,Fruits,Apples,DS 22,All Sizes,NA,NA,NA,Malus domestica,Riverbelle,2018-10-08,2014-12-02,NA,http://check.ifpsglobal.com/file/view/3447-ds-22-apple-1_1460404106.jpg,3447-ds-22-apple-1_1460404106.jpg
+3448,Fruits,Cherries,Tip Top,All Sizes,NA,NA,NA,Prunus avium,Skylar Rae,2018-10-08,2015-01-29,NA,http://check.ifpsglobal.com/file/view/3448-tip-top-cherry_1460476077.JPG,3448-tip-top-cherry_1460476077.JPG
+3449,Fruits,Grapes,Sugrathirteen,All Sizes,NA,NA,NA,Vitis Vinifera I.,MIDNIGHT BEAUTY® brand,2018-10-08,2015-03-27,NA,http://check.ifpsglobal.com/file/view/3449-sugrathirteen-grape_1460475825.JPG,3449-sugrathirteen-grape_1460475825.JPG
+3450,Fruits,Grapes,Sugranineteen,All Sizes,NA,NA,NA,Vitis Vinifera I.,SCARLOTTA SEEDLESS® brand,2018-10-08,2015-03-27,NA,http://check.ifpsglobal.com/file/view/3450-sugraninteen-grape_1460475750.JPG,3450-sugraninteen-grape_1460475750.JPG
+3451,Fruits,Grapes,Sugrathirtyfour,All Sizes,NA,NA,NA,Vitis Vinifera,ADORA SEEDLESS® brand,2018-10-08,2015-03-27,NA,http://check.ifpsglobal.com/file/view/3451-sugrathirtyfour-grape_1460475976.jpg,3451-sugrathirtyfour-grape_1460475976.jpg
+3452,Fruits,Grapes,Sugrathirtyfive,All Sizes,NA,NA,NA,Vitis Vinifera,AUTUMNCRISP® brand,2018-10-08,2015-03-27,NA,http://check.ifpsglobal.com/file/view/3452-sugrathirtyfive-grape_1460475927.JPG,3452-sugrathirtyfive-grape_1460475927.JPG
+3453,Vegetables,Galangal Root,NA,All Sizes,NA,NA,NA,Alpinia officinarum,NA,2018-10-08,2015-03-27,NA,NA,NA
+3454,Fruits,Jackfruit,Green,All Sizes,NA,NA,NA,Artocarpus heterophylus,NA,2018-10-08,2015-03-27,NA,NA,NA
+3455,Fruits,Jackfruit,Yellow,All Sizes,NA,NA,NA,Artocarpus heterophylus,NA,2018-10-08,2015-03-27,NA,NA,NA
+3456,Fruits,Melon,Winter,All Sizes,NA,NA,NA,Cucumis melo,NA,2018-10-08,2015-03-27,NA,NA,NA
+3457,Fruits,Plums,President,All Sizes,NA,NA,NA,Prunus spp.,NA,2018-10-08,2015-03-27,NA,NA,NA
+3458,Vegetables,Tomatoes,Cherry - Orange,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,2018-10-08,2015-03-27,NA,NA,NA
+3459,Fruits,Persimmon,Shiny Red,All Sizes,NA,NA,NA,Diospyros kaki,NA,2018-10-08,2015-08-20,NA,http://check.ifpsglobal.com/file/view/3459-shiny-red-persimmon_1486570958.JPG,3459-shiny-red-persimmon_1486570958.JPG
+3460,Fruits,Apples,Red Jonaprince,All Sizes,NA,NA,NA,malus domestica,Red Prince,2018-10-08,2015-08-20,NA,http://check.ifpsglobal.com/file/view/3460-red-jonaprince-apple_1460474741.JPG,3460-red-jonaprince-apple_1460474741.JPG
+3461,Fruits,Apples,Lady Williams,All Sizes,NA,NA,NA,malus domestica,NA,2018-10-08,2015-09-03,NA,NA,NA
+3462,Herbs,Chives,Garlic/Chinese,All Sizes,NA,NA,NA,Allium tuberosum,NA,2018-10-08,2015-09-03,NA,NA,NA
+3463,Vegetables,Amaranth/Callaloo/Een Choy,NA,All Sizes,NA,NA,NA,amaranthus spp.,"Chinese spinach, yin choy",2018-10-08,2016-02-12,NA,NA,NA
+3464,Fruits,Mango,B-74,All Sizes,NA,NA,NA,Mangifera ,Calypso™,2018-10-08,2016-02-08,NA,http://check.ifpsglobal.com/file/view/ingredient-mango_1547119656.jpg,ingredient-mango_1547119656.jpg
+3465,Vegetables,Peppers (Capsicums),Stripy Bell,All Sizes,NA,NA,NA,Capsicum,Enjoya™,2018-10-08,2016-02-08,NA,http://check.ifpsglobal.com/file/view/3465-stripy-bell-pepper-image_1455298271.jpg,3465-stripy-bell-pepper-image_1455298271.jpg
+3466,Fruits,Pears,Cape Rose,All Sizes,NA,NA,NA,Pyrus communis,Cheeky®,2018-10-08,2016-02-08,NA,http://check.ifpsglobal.com/file/view/3466-cape-rose-pear-image_1455298305.jpg,3466-cape-rose-pear-image_1455298305.jpg
+3467,Fruits,Apples,Regal 13-82,All Sizes,NA,NA,NA,Malus domestica Bork,Juici™,2018-10-08,2016-02-08,NA,http://check.ifpsglobal.com/file/view/3467-regal-13-82-apple-image_1455298344.jpg,3467-regal-13-82-apple-image_1455298344.jpg
+3468,Fruits,Apples,Honeycrisp,Small,100 size and smaller,Average Fruit Weight less than 205g,NA,malus pumila,NA,2018-10-08,2016-03-01,NA,NA,NA
+3469,Fruits,Grapes,Sugrasixteen,All Sizes,NA,NA,NA,Vitis Vinifera I.,SABLE SEEDLESS® brand,2018-10-08,2016-05-02,NA,http://check.ifpsglobal.com/file/view/3469-sugrasixteen-grape_1462197403.JPG,3469-sugrasixteen-grape_1462197403.JPG
+3470,Fruits,Melon,"Watermelon - Red, Small Seeds",All Sizes,NA,NA,NA,Citrullus lanatus,NA,2018-10-08,2016-05-16,NA,http://check.ifpsglobal.com/file/view/3470-watermelon-red-small-seeds_1463430265.JPG,3470-watermelon-red-small-seeds_1463430265.JPG
+3471,Vegetables,Cactus Leaves (Nopales/Cactus Pads),Baby,All Sizes,NA,NA,NA,Opuntia sp,NA,2018-10-08,2016-05-26,NA,NA,NA
+3472,Herbs,Sacred Pepper,NA,All Sizes,NA,NA,NA,Piper sanctum,Sacred pepper leaf,2018-10-08,2016-05-26,NA,NA,NA
+3473,Herbs,Epazote,NA,All Sizes,NA,NA,NA,Chenopodium ambrosioides L.,NA,2018-10-08,2016-05-26,NA,NA,NA
+3474,Vegetables,Sweet Potato/Yam/Kumara,Saffron,All Sizes,NA,NA,NA,Escobedia linearis Schlecht,NA,2018-10-08,2016-05-26,NA,NA,NA
+3475,Herbs,Mint,Peppermint,All Sizes,NA,NA,NA,Mentha piperata,NA,2018-10-08,2016-05-26,NA,NA,NA
+3476,Herbs,Orange Tree Leaf,NA,All Sizes,NA,NA,NA,Citrus x sinensis (L.) Osbeck,NA,2018-10-08,2016-05-26,NA,NA,NA
+3477,Herbs,Papalo,NA,All Sizes,NA,NA,NA,Porophyllum macrocephalum DC.,"Summer cilantro, Bolivian coriander",2018-10-08,2016-05-26,NA,NA,NA
+3478,Vegetables,Quelites,NA,All Sizes,NA,NA,NA,Chenopodium spp.,NA,2018-10-08,2016-05-26,NA,NA,NA
+3479,Vegetables,Chipilin Leaf,NA,All Sizes,NA,NA,NA,Crotalaria longirostrata,Chepil,2018-10-08,2016-05-26,NA,NA,NA
+3480,Vegetables,Pumpkin Vine,NA,All Sizes,NA,NA,NA,Cucurbita pepo,Pumpkin vine,2018-10-08,2016-05-26,NA,NA,NA
+3481,Vegetables,Xpelon,NA,All Sizes,NA,NA,NA,Phaseolus lunatus,Xpelon bean,2018-10-08,2016-05-26,NA,NA,NA
+3482,Herbs,Rabbit Herb,NA,All Sizes,NA,NA,NA,Porophyllum linaria (Cav.) DC.,NA,2018-10-08,2016-05-26,NA,NA,NA
+3483,Herbs,Purple Herb,NA,All Sizes,NA,NA,NA,Solanum americanum Mill.,Purple grass,2018-10-08,2016-05-26,NA,NA,NA
+3484,Fruits,Apples,Dalinette,All Sizes,NA,NA,NA,Malus mill,CHOUPETTE,2020-03-09,2016-07-18,NA,http://check.ifpsglobal.com/file/view/3484-dalinette-apple_1468863527.jpeg,3484-dalinette-apple_1468863527.jpeg
+3485,Fruits,Pears,Harovin Sundown,All Sizes,NA,NA,NA,Pyrus communis,Cold Snap™,2020-03-09,2016-10-31,NA,http://check.ifpsglobal.com/file/view/3485-harovin-sundown-pear_1478113625.JPG,3485-harovin-sundown-pear_1478113625.JPG
+3486,Fruits,Apples,CN121,All Sizes,NA,NA,NA,Malus domestica,SugarBee™,2018-10-08,2016-10-31,NA,http://check.ifpsglobal.com/file/view/3486-cn121-apple-image_1477940116.JPG,3486-cn121-apple-image_1477940116.JPG
+3487,Fruits,Apples,MN 55,All Sizes,NA,NA,NA,Malus domestica,"Rave™, First Kiss™",2018-10-08,2016-10-31,NA,http://check.ifpsglobal.com/file/view/3487-mn-apple_1486486057.JPG,3487-mn-apple_1486486057.JPG
+3488,Fruits,Mango,Red,Extra Large,7 and Larger,NA,NA,Mangifera indica,NA,2018-10-08,2017-01-18,NA,http://check.ifpsglobal.com/file/view/3488-xl-red-mango_1485985967.JPG,3488-xl-red-mango_1485985967.JPG
+3489,Fruits,Pears,Cepuna,All Sizes,NA,NA,NA,Pyrus communis,Migo™,2018-10-08,2017-01-26,NA,http://check.ifpsglobal.com/file/view/3489-cepuna-pear_1485985161.JPG,3489-cepuna-pear_1485985161.JPG
+3490,Fruits,Apples,MAIA 1,All Sizes,NA,NA,NA,Malus domestica,EverCrisp™,2018-02-07,2018-02-07,NA,http://check.ifpsglobal.com/file/view/maia-1-apple-3490_1501621759.JPG,maia-1-apple-3490_1501621759.JPG
+3491,Fruits,Grapes,ARRA FIFTEEN,All Sizes,NA,NA,NA,Vitis vinifera,Sweeties™,2018-04-05,2018-02-08,NA,http://check.ifpsglobal.com/file/view/arra-15-grape_1518122851.JPG,arra-15-grape_1518122851.JPG
+3492,Fruits,Grapes,ARRA TWENTYNINE,All Sizes,NA,NA,NA,Vitis vinifera,Passion Fire™,2018-04-05,2018-02-08,NA,http://check.ifpsglobal.com/file/view/arra-29-grape_1518123352.jpg,arra-29-grape_1518123352.jpg
+3493,Vegetables,Onions,Tearless Sweet,All Sizes,NA,NA,NA,Allium cepa,Sunions,2018-05-08,2018-05-08,NA,NA,NA
+3494,Fruits,Melon,Watermelon - Yellow Mini Seedless,3-7 Lbs,NA,NA,NA,Citullus lanatus,Sunny Gold™,2018-05-11,2018-05-11,NA,NA,NA
+3495,Fruits,Pears,Celina,All Sizes,NA,NA,NA,Pyrus communis,QTee®,2018-05-08,2018-05-08,NA,NA,NA
+3496,Fruits,Grapes,IFG Core Red Seedless,All Sizes,NA,NA,NA,Vitis vinifera,"IFG 68-175 (Sweet Celebration®), IFG Four (Sweet Romance®), IFG None (Jack's Salute®)",2018-05-09,2018-05-09,NA,NA,NA
+3497,Fruits,Grapes,IFG Core Black Seedless ,All Sizes,NA,NA,NA,Vitis vinifera,"IFG One (Sweet Surrender®), IFG Eight (Sweet Enchantment®), IFG Thirteen (Sweet Secrets®), IFG Fifteen (Sweet Surprise®), IFGSixteen (Sweet Surprise®), IFG Seventeen (Sweet Joy®), IFG Twenty-Five (Sweet Magic®), IFG Twenty-Six (Sweet Bond®) ",2018-05-09,2018-05-09,NA,NA,NA
+3498,Fruits,Grapes,IFG Core Green Seedless,All Sizes,NA,NA,NA,Vitis vinifera,"IFG Two (Sweet Sunshine®), IFG Ten (Sweet Globe®), IFG Eleven (Sugar Crisp®)",2018-05-09,2018-05-09,NA,NA,NA
+3499,Fruits,Grapes,IFG Novelty Red Seedless,All Sizes,NA,NA,NA,Vitis vinifera,"IFG Fourteen (Sweet Mayabelle®), IFG Eighteen (Sweet Nectar®), IFG Nineteen (Candy Hearts®), IFG Twenty-One (Candy Snaps®), IFG Twenty-Three (Candy Drops®)",2018-05-09,2018-05-09,NA,NA,NA
+3500,Fruits,Grapes,IFG Novelty Black Seedless,All Sizes,NA,NA,NA,Vitis vinifera,"IFG Six (Sweet Sapphire®). IFG Twelve (Funny Fingers®), IFG Twenty (Candy Crunch®), IFG Twenty-Two (Candy Dream®s)",2018-05-09,2018-05-09,NA,NA,NA
+3501,Fruits,Grapes,IFG Novelty Green Seedless,All Sizes,NA,NA,NA,Vitis vinifera,IFG Seven (Cotton Candy®),2018-05-09,2018-05-09,NA,NA,NA
+3502,Fruits,Grapes,ARRA TWENTYSEVEN,All Sizes,NA,NA,NA,Vitis vinifera,"ARRA 27, Mystic Star",2018-05-11,2018-05-11,NA,NA,NA
+3503,Fruits,Grapes,ARRA TWENTYEIGHT,All Sizes,NA,NA,NA,Vitis vinifera,Passion Punch™,2018-05-11,2018-05-11,NA,NA,NA
+3504,Fruits,Grapes,ARRA THIRTY,All Sizes,NA,NA,NA,Vitis vinifera,Sugardrop,2018-05-11,2018-05-11,NA,NA,NA
+3505,Fruits,Grapes,ARRA THIRTYTWO,All Sizes,NA,NA,NA,Vitis vinifera,Mystic Dream,2018-05-11,2018-05-11,NA,NA,NA
+3506,Fruits,Grapes,Sweet Scarlet,All Sizes,NA,NA,NA,Vitis vinifera,Muscato Amore™,2018-05-11,2018-05-11,NA,NA,NA
+3507,Fruits,Apples,WA 38,All Sizes,NA,NA,NA,Malus domestica,Cosmic Crisp®,2018-10-18,2018-08-02,NA,NA,NA
+3508,Fruits,Grapes,Thomcord,All Sizes,NA,NA,NA,Vitus vinifera,"Grape Jammers™, Jelly Drops™, California Thomcord™, A29-67",2018-08-02,2018-08-02,NA,NA,NA
+3509,Fruits,Avocados,GEM,All Sizes,NA,NA,NA,Persea americana,NA,2018-10-31,2018-10-31,NA,NA,NA
+3510,Fruits,Apples,Ambrosia,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,2018-10-31,2018-10-31,NA,NA,NA
+3511,Fruits,Apples,WA 2,All Sizes,NA,NA,NA,Malus domestica,Crimson Delight™,2019-02-04,2019-02-01,10005900,NA,NA
+3512,Vegetables,Tomatoes,Round,All Sizes,NA,NA,NA,Solanum Lycopersicum,Tasti-Lee™,2019-02-04,2019-02-01,10006165,NA,NA
+3513,Fruits,Apples,Shinano Gold,All Sizes,NA,NA,NA,Malus domestica,yello®,2020-10-02,2020-02-28,10005900,http://check.ifpsglobal.com/file/view/shinano-gold-apple-image_1601648836.png,shinano-gold-apple-image_1601648836.png
+3514,Fruits,Apples,Fengapi,All Sizes,NA,NA,NA,Malus domestica,Tessa®,2020-02-28,2020-02-28,10005900,NA,NA
+3515,All,Apples,PremA 153,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus domestica,Lemonade®,2020-02-28,2020-02-28,10005900,NA,NA
+3516,Fruits,Apples,PremA 153,Large,88 size and larger,Average fruit weight = 205g and above,NA,Malus domestica,Lemonade®,2020-02-28,2020-02-28,10005900,NA,NA
+3517,Fruits,Kiwifruit,Retailer Assigned - Gold Derivative Varieties,All Sizes,NA,NA,NA,Actinidia chinensis,NA,2020-02-28,2020-02-28,NA,NA,NA
+3518,Fruits,Pears,Oksana,All Sizes,NA,NA,NA,Pyrus communis,Xenia,2020-02-06,2020-02-06,NA,NA,NA
+3519,Fruits,Apples,R10-45,All Sizes,NA,NA,NA,Malus domestica,Wild Twist,2020-02-06,2020-02-06,NA,NA,NA
+3520,Vegetables,Onions,SK-20,All Sizes,NA,NA,NA,Allium cepa,"Smileball, Goldies, Onique, SweetNothings, Loving’Onions",2020-02-06,2020-02-06,NA,NA,NA
+3521,Fruits,Apples,Regal D5-100,All Sizes,NA,NA,NA,Malus domestica,Karma®,2020-08-03,2020-08-03,10005900,http://check.ifpsglobal.com/file/view/regal-d5-100-apple-image_1601649297.png,regal-d5-100-apple-image_1601649297.png
+3522,Fruits,Pears,HW624,All Sizes,NA,NA,NA,Pyrus communis,NA,2020-08-03,2020-08-03,10005903,NA,NA
+3600,Fruits,Apples,Antares,All Sizes,NA,NA,NA,Malus pumila,NA,2008-06-03,2008-06-03,NA,NA,NA
+3601,Fruits,Apples,Huaguan,All Sizes,NA,NA,NA,Malus pumila,Autumn Glory,2016-04-11,2008-06-03,NA,http://check.ifpsglobal.com/file/view/3601-huaguan-apple_1460404549.jpg,3601-huaguan-apple_1460404549.jpg
+3602,Fruits,Apples,Belgica,All Sizes,NA,NA,NA,Malus domestica cv belgica,NA,2016-06-20,2008-11-26,NA,http://check.ifpsglobal.com/file/view/3602-belgica-apple_1460403066.JPG,3602-belgica-apple_1460403066.JPG
+3603,Fruits,Apples,Minneiska,All Sizes,NA,NA,NA,Malus domestica,NA,2016-04-11,2008-11-26,NA,http://check.ifpsglobal.com/file/view/3603-minneiska-apple_1460404859.jpg,3603-minneiska-apple_1460404859.jpg
+3604,Fruits,Apples,Emmons,All Sizes,NA,NA,NA,malus pumila 'emmons',NA,2016-04-11,2008-11-26,NA,http://check.ifpsglobal.com/file/view/3604-emmons-apple_1460404152.JPG,3604-emmons-apple_1460404152.JPG
+3605,Fruits,Apples,Nicoter,All Sizes,NA,NA,NA,Malus,NA,2016-04-12,2009-05-13,NA,http://check.ifpsglobal.com/file/view/3605-nicoter-apple_1460471747.JPG,3605-nicoter-apple_1460471747.JPG
+3606,Fruits,Pears,Sweet Sensation,All Sizes,NA,NA,NA,Pyrus spp.,NA,2016-04-12,2009-05-13,NA,http://check.ifpsglobal.com/file/view/3606-sweet-sensation-pear_1460476037.jpg,3606-sweet-sensation-pear_1460476037.jpg
+3607,Fruits,Apples,Mariri Red,All Sizes,NA,NA,NA,Malus pumila,NA,2007-10-23,2007-10-23,NA,NA,NA
+3608,Fruits,Apples,Sciros,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,Pacific Rose,2002-10-16,2002-10-16,NA,NA,NA
+3609,Fruits,Plumcot (Interspecific Plum),Red,All Sizes,NA,NA,NA,Prunus spp.,NA,2008-06-03,2008-06-03,NA,NA,NA
+3610,Fruits,Plumcot (Interspecific Plum),Green,All Sizes,NA,NA,NA,Prunus spp.,NA,2008-06-03,2008-06-03,NA,NA,NA
+3611,Fruits,Plumcot (Interspecific Plum),Black,All Sizes,NA,NA,NA,Prunus spp.,NA,2008-06-03,2008-06-03,NA,NA,NA
+3612,Fruits,Apples,Nicogreen,All Sizes,NA,NA,NA,Malus,NA,2016-04-12,2009-05-13,NA,http://check.ifpsglobal.com/file/view/3612-nicogreen-apple_1460471798.JPG,3612-nicogreen-apple_1460471798.JPG
+3613,Fruits,Apples,Fuji Brak,All Sizes,NA,NA,NA,Malus,NA,2016-06-20,2009-05-13,NA,http://check.ifpsglobal.com/file/view/3613-fuji-brak-apple_1460404333.JPG,3613-fuji-brak-apple_1460404333.JPG
+3614,Fruits,Apricots,Red,All Sizes,NA,NA,NA,Prunus armeniaca,NA,2016-04-12,2009-10-15,NA,http://check.ifpsglobal.com/file/view/3614-red-apricot_1460474571.JPG,3614-red-apricot_1460474571.JPG
+3615,Fruits,Apples,Civni,All Sizes,NA,NA,NA,Malus pumila,NA,2016-04-11,2009-10-29,NA,http://check.ifpsglobal.com/file/view/3615-civni-apple_1460403607.jpg,3615-civni-apple_1460403607.jpg
+3616,Fruits,Apples,Scilate,Large,88 size and larger,NA,NA,Malus domestica,ENVY,2016-04-12,2013-05-06,NA,http://check.ifpsglobal.com/file/view/3616-scilate-apple_1460475110.JPG,3616-scilate-apple_1460475110.JPG
+3617,Fruits,Lemons,Seedless,All Sizes,NA,NA,NA,NA,NA,2016-04-12,2010-06-28,NA,http://check.ifpsglobal.com/file/view/3617-seedless-lemon_1460475688.JPG,3617-seedless-lemon_1460475688.JPG
+3618,Fruits,Apples,Opal,All Sizes,NA,NA,NA,Malus pumila,NA,2016-04-12,2007-10-19,NA,http://check.ifpsglobal.com/file/view/3618-opal-apple_1460471841.jpg,3618-opal-apple_1460471841.jpg
+3619,Fruits,Apples,Milwa,All Sizes,NA,NA,NA,Malus pumila,NA,2016-04-11,2011-06-09,NA,http://check.ifpsglobal.com/file/view/3619-milwa-apple_1460404807.jpg,3619-milwa-apple_1460404807.jpg
+3620,Fruits,Apples,Plumac,All Sizes,NA,NA,NA,Malus domestica,NA,2018-10-08,2011-06-09,NA,http://check.ifpsglobal.com/file/view/3620-plumac-apple_1460472152.png,3620-plumac-apple_1460472152.png
+3621,Fruits,Mango,Francis,All Sizes,NA,NA,NA,Mangifera Indica,"Madame Francis, Francine",2016-04-11,2011-10-24,NA,http://check.ifpsglobal.com/file/view/3621-francis-mango_1460404284.jpg,3621-francis-mango_1460404284.jpg
+3622,Fruits,Melon,Honey Green,All Sizes,NA,NA,NA,Cucumis melo,Papaya Melon,2018-10-08,2011-10-24,NA,http://check.ifpsglobal.com/file/view/3622-honey-green-melon_1460404501.jpg,3622-honey-green-melon_1460404501.jpg
+3623,Fruits,Melon,Hami,All Sizes,NA,NA,NA,Cucumis melo,Chinese Hami or Snow Melon,2016-04-11,2011-10-24,NA,http://check.ifpsglobal.com/file/view/3623-hami-melon_1460404438.jpg,3623-hami-melon_1460404438.jpg
+3624,Fruits,Melon,Korean,All Sizes,NA,NA,NA,Cucumis melo,NA,2018-10-08,2011-10-24,NA,http://check.ifpsglobal.com/file/view/3624-korean-melon_1460404665.jpg,3624-korean-melon_1460404665.jpg
+3625,Fruits,Apples,Minnewashta,All Sizes,NA,NA,NA,Malus domestica,Zestar,2016-04-11,2011-10-24,NA,http://check.ifpsglobal.com/file/view/3625-minnewashta-apple_1460404907.jpg,3625-minnewashta-apple_1460404907.jpg
+3626,Fruits,Lemons,Meyer,All Sizes,NA,NA,NA,Citrus limon,NA,2016-04-11,2012-01-25,NA,http://check.ifpsglobal.com/file/view/3626-meyer-lemons_1460404763.jpg,3626-meyer-lemons_1460404763.jpg
+3627,Fruits,Apples,PremA17,Large,NA,NA,NA,Malus Pumila,NA,2018-10-08,2012-01-25,NA,http://check.ifpsglobal.com/file/view/3627-prema17-apple_1460474460.JPG,3627-prema17-apple_1460474460.JPG
+3628,Fruits,Apples,PremA280,All Sizes,NA,NA,NA,Malus Pumila,NA,2016-04-12,2012-01-25,NA,http://check.ifpsglobal.com/file/view/3628-prema280-apple_1460474514.JPG,3628-prema280-apple_1460474514.JPG
+3629,Fruits,Apples,CIVG198,All Sizes,NA,NA,NA,Malus Pumila,NA,2016-04-11,2012-01-25,NA,http://check.ifpsglobal.com/file/view/3629-civg198-apple_1460403502.jpg,3629-civg198-apple_1460403502.jpg
+3630,Fruits,Apples,Co-op 43,All Sizes,NA,NA,NA,Malus domestica,NA,2016-06-20,2012-04-25,NA,http://check.ifpsglobal.com/file/view/3630-co-op-43-apple_1460403668.jpg,3630-co-op-43-apple_1460403668.jpg
+3631,Vegetables,Pumpkin,Pink,All Sizes,22 to 25 lbs,NA,NA,Eucurbita maxima,Porcelain Doll Pumpkin,2018-10-08,2012-07-26,NA,http://check.ifpsglobal.com/file/view/3631-pink-pumpkin_1460472104.jpg,3631-pink-pumpkin_1460472104.jpg
+3632,Fruits,Tangerines/Mandarins,Dekopon,All Sizes,NA,NA,NA,Citrus reticulata siranui,Shiranui/Hallabong/Sumo Citrus,2018-10-08,2012-10-17,NA,http://check.ifpsglobal.com/file/view/3632-dekopon-mandarin_1460404047.jpg,3632-dekopon-mandarin_1460404047.jpg
+4011,Fruits,Bananas,Yellow (includes Cavendish),All Sizes,NA,NA,NA,Musa spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4012,Fruits,Oranges,Navel,Large,56 size and larger,Average Fruit Dimensions = 84mm and above,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4013,Fruits,Oranges,Navel,Small,113 size and smaller,Average Fruit Dimensions = less than 66mm,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4014,Fruits,Oranges,Valencia,Small,100 size and smaller,Average Fruit Dimensions = less than 77mm,Restricted for items grown east of the Mississippi River in the U.S or east of the Ontario/Manitoba border in Canada.,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4014,Fruits,Oranges,Valencia,Small,113 size and smaller,Average Fruit Dimensions = less than 66mm,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4015,Fruits,Apples,Red Delicious,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4016,Fruits,Apples,Red Delicious,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4017,Fruits,Apples,Granny Smith,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4018,Fruits,Apples,Granny Smith,Large,88 size and larger,Average Fruit Weight = 205g and above,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4019,Fruits,Apples,McIntosh,Large,88 size and larger,Average Fruit Weight = 205g and above,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4020,Fruits,Apples,Golden Delicious,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,10005900,NA,NA
+4021,Fruits,Apples,Golden Delicious,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4022,Fruits,Grapes,White/Green Seedless - Peerlette Seedless/Thompson Seedless,All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4023,Fruits,Grapes,Red Seedless - Flame/Ruby/Emperatriz,All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4024,Fruits,Pears,Bartlett/Williams/WBC,Small,110 size and smaller,Average Fruit Weight =  less than 180g,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4025,Fruits,Pears,Anjou,Small,110 size and smaller,Average Fruit Weight =  less than 180g,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4026,Fruits,Pears,Bosc/Beurre Bosc,Small,110 size and smaller,Average Fruit Weight =  less than 180g,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4027,Fruits,Grapefruit,"Ruby/Red/Pink (includes Ray Ruby, Ruby, Ruby Red)",Small,40 size and smaller,NA,Restricted for items grown east of the Mississippi River in the U.S or east of the Ontario/Manitoba border in Canada.,Citrus paradisi,NA,1999-12-31,1999-12-31,NA,NA,NA
+4028,Fruits,Berries,Strawberries,Pint,NA,NA,NA,Fragaria ananassa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4029,Fruits,Pineapple,NA,Small,12 size and smaller,NA,Sizes for pineapple based on two-layer lug.,Ananas comosus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4030,Fruits,Kiwifruit,Regular,All Sizes,NA,NA,NA,Actinidia deliciosa,NA,2004-06-30,2004-06-30,NA,NA,NA
+4031,Fruits,Melon,Watermelon - Red   ,All Sizes,NA,NA,NA,Citrullus lanatus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4032,Fruits,Melon,"Watermelon - Red, Seedless",All Sizes,NA,NA,NA,Citrullus lanatus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4033,Fruits,Lemons,NA,Small,200 size and smaller,Average Fruit Dimensions = less than 54mm,NA,Citrus limon,NA,1999-12-31,1999-12-31,NA,NA,NA
+4034,Fruits,Melon,Honeydew/White Honeydew,Large,5 size and larger,Average Fruit Weight =  2040g and above,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4035,Fruits,Nectarine,Yellow Flesh,Small,70 size and smaller,Average Fruit Weight =  less than 185g,NA,Prunus persica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4036,Fruits,Nectarine,Yellow Flesh,Large,66 size and larger,Average Fruit Weight =  185g and above,NA,Prunus persica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4037,Fruits,Peaches,Yellow Flesh,Small,70 size and smaller,Average Fruit Weight =  less than 185g,NA,NA,NA,2017-02-07,1999-12-31,NA,http://check.ifpsglobal.com/file/view/4037-yellow-flesh-peach_1486484929.JPG,4037-yellow-flesh-peach_1486484929.JPG
+4038,Fruits,Peaches,Yellow Flesh,Large,66 size and larger,Average Fruit Weight =  185g and above,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4039,Fruits,Plums,"Black (Includes Ambra, Black Beaut, Prima Black, Blackamber, Black Torch, Catalina, Challenger, Black Diamond, Friar, Royal Diamond, Black Knight, Freedom, Black Flame, Howard Sun, Angeleno)",Small,60 size and smaller,Average Fruit Dimensions < 50MM,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4040,Fruits,Plums,"Black (Includes Ambra, Black Beaut, Prima Black, Blackamber, Black Torch, Catalina, Challenger, Black Diamond, Friar, Royal Diamond, Black Knight, Freedom, Black Flame, Howard Sun, Angeleno)",Large,55 size and larger,Average Fruit Dimensions 50MM & ABOVE,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4041,Fruits,Plums,"Red (Includes Santa Rosa, Late Santa Rosa, Red Beaut, Rich Red, Spring Beaut, First Beaut, Royal Red, Red Jewel, Rose Zee, Royal Zee, Ace, Aleta Rose, Burgandy, July Santa Rosa, Frontier, Fortune, Grand Rosa, Red Lane, Red Rosa, Casselman, Autumn Rosa, Mi",Small,60 size and smaller,Average Fruit Dimensions < 50MM,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4042,Fruits,Plums,"Red (Includes Santa Rosa, Late Santa Rosa, Red Beaut, Rich Red, Spring Beaut, First Beaut, Royal Red, Red Jewel, Rose Zee, Royal Zee, Ace, Aleta Rose, Burgandy, July Santa Rosa, Frontier, Fortune, Grand Rosa, Red Lane, Red Rosa, Casselman, Autumn Rosa, Mi",Large,55 size and larger,Average Fruit Dimensions 50MM & ABOVE,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4043,Fruits,Peaches,Yellow Flesh - Tree Ripened/Ready-to-eat,Small,70 size and smaller,Average Fruit Weight =  less than 185g,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4044,Fruits,Peaches,Yellow Flesh - Tree Ripened/Ready-to-eat,Large,66 size and larger,Average Fruit Weight =  185g and above,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4045,Fruits,Cherries,Regular/Red/Black,All Sizes,NA,NA,"This code can be used anyplace in the globe; however, there are other codes for this item that can be used outside of North America.",Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4046,Fruits,Avocados,Hass,Small,60 size and smaller,Average Fruit Weight = less than 190g,NA,Persea americana,NA,1999-12-31,1999-12-31,NA,NA,NA
+4047,Fruits,Grapefruit,"Ruby/Red/Pink (Includes Ray Ruby, Ruby, Ruby Red)",Small,40 size and smaller,Average Fruit Dimensions = less than 97mm,NA,Citrus paradisi,NA,2002-06-02,2002-06-02,NA,NA,NA
+4048,Fruits,Limes,"Regular (incl. Persian, Tahiti & Bearss)",All Sizes,NA,NA,NA,Citrus latifolia,NA,1999-12-31,1999-12-31,NA,NA,NA
+4049,Fruits,Melon,Cantaloupe/Rockmelon,Small,15 size and smaller (Original size break was 18 size and smaller) 2 year transition period for this change to be official. New size official as of 5/2007.,Average Fruit Weight =  less than 1135g,NA,Cucumis melo,NA,2005-05-23,2005-05-23,NA,NA,NA
+4050,Fruits,Melon,Cantaloupe/Rockmelon,Large,12 size and larger  (Original size break was 15 size and larger) 2 year transition period for this change to be official. New size official as of 5/2007.,Average Fruit Weight =  1135g and above,NA,Cucumis melo,NA,2005-05-23,2005-05-23,NA,NA,NA
+4051,Fruits,Mango,"Red (Includes Tommy Atkins, Kent, Palmer, Vandyke, Edward,Hayden)",Small,12 size and smaller,NA,NA,Mangifera indica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4052,Fruits,Papaya/Pawpaw,Regular,Small,10 size and smaller,NA,NA,Carica papaya,NA,1999-12-31,1999-12-31,NA,NA,NA
+4053,Fruits,Lemons,NA,Large,115 size and larger,Average Fruit Dimensions = 65mm and above,NA,Citrus limon,NA,1999-12-31,1999-12-31,NA,NA,NA
+4054,Fruits,Berries,Raspberries - Red,All Sizes,NA,NA,NA,Rubus idaeus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4055,Fruits,Tangerines/Mandarins,NA,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4056,Fruits,Grapes,Blue/Black Seedless (All other varieties not listed above including Beauty and Autumn Royal),All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4057,Fruits,Apples,Haralson,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4058,Fruits,Apples,Haralson,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4060,Vegetables,Broccoli,NA,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4061,Vegetables,Lettuce,Iceberg,All Sizes,NA,NA,NA,Lactuca sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4062,Vegetables,Cucumber,Green/Ridge/Short,All Sizes,NA,NA,NA,Cucumis sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4063,Vegetables,Tomatoes,Regular - Red,Small,6x6 size and smaller,Less than 70mm diameter,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4064,Vegetables,Tomatoes,Regular - Red,Large,5x6 size and larger,Diameter 70mm and above,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4065,Vegetables,Peppers (Capsicums),"Bell, Field Grown - Green",Large,large size and larger,Min diameter 65mm and above,NA,Capsicum spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4066,Vegetables,Beans,Green/French,All Sizes,NA,NA,NA,Phaseolus vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+4067,Vegetables,Squash,Zucchini/Courgette,All Sizes,NA,NA,NA,C.pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4068,Vegetables,Onions,Green (Scallions)/Spring,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4069,Vegetables,Cabbage,Green,All Sizes,NA,NA,NA,Brassica oleracea,NA,2018-10-08,1999-12-31,NA,NA,NA
+4070,Vegetables,Celery,Bunch,Small,30 size and smaller,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4071,Vegetables,Celery,Bunch,Small,30 size and smaller,NA,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4072,Vegetables,Potato,Russet,All Sizes,NA,NA,NA,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4073,Vegetables,Potato,Red,All Sizes,NA,NA,NA,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4074,Vegetables,Sweet Potato/Yam/Kumara,Red/Orangy Red Flesh,Small,large size and smaller,NA,Terminology changed to include both sweet potato and yam to avoid confusion in marketplace.,Ipomoea batato,NA,2009-06-10,2009-06-10,NA,NA,NA
+4075,Vegetables,Lettuce,Red Leaf,All Sizes,NA,NA,NA,Lactuca sativa,NA,2018-10-08,1999-12-31,NA,NA,NA
+4076,Vegetables,Lettuce,Green Leaf,All Sizes,NA,NA,NA,Lactuca sativa,NA,2018-10-08,1999-12-31,NA,NA,NA
+4077,Vegetables,Corn,"Sweet Corn, White",All Sizes,NA,NA,NA,Zea mays,NA,1999-12-31,1999-12-31,NA,NA,NA
+4078,Vegetables,Corn,"Sweet Corn, Yellow",All Sizes,NA,NA,NA,Zea mays,NA,1999-12-31,1999-12-31,NA,NA,NA
+4079,Vegetables,Cauliflower,NA,Small,12 size and smaller,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4080,Vegetables,Asparagus,Green,Small,standard and large size,NA,"This code can be used anyplace in the globe; however, there are other codes for this item that can be used outside of North America.",Asparagus officinalis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4081,Vegetables,Eggplant (Aubergine),Regular,All Sizes,NA,NA,NA,Solanum melongena,NA,1999-12-31,1999-12-31,NA,NA,NA
+4082,Vegetables,Onions,Red,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4083,Vegetables,Potato,White,All Sizes,NA,NA,NA,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4084,Vegetables,Artichokes,NA,Large,30-36 size,NA,NA,Cynara scolymus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4085,Vegetables,Mushrooms,Regular,Large,NA,40mm diameter and above,NA,Agaricus bisporus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4086,Vegetables,Squash,Yellow Zucchini/Gold Bar/Yellow Courgette,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4087,Vegetables,Tomatoes,Plum/Italian/Saladette/Roma - Red,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4088,Vegetables,Peppers (Capsicums),"Bell, Field Grown - Red",All Sizes,NA,NA,NA,Capsicum spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4089,Vegetables,Radish,Bunched Red,All Sizes,NA,NA,NA,Raphanus sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4090,Vegetables,Spinach,Regular/Bunched,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4091,Vegetables,Sweet Potato/Yam/Kumara,White,All Sizes,NA,NA,Terminology changed to include both sweet potato and yam to avoid confusion in marketplace,Ipomoea batato,NA,2009-06-10,2009-06-10,NA,NA,NA
+4092,Vegetables,Peas,Chinese Snow Pea/Pea Pod/Mange Tout,All Sizes,NA,NA,NA,Pisum sativum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4093,Vegetables,Onions,Yellow/Brown,Large,3 size and larger,Min diameter 75mm and above,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4094,Vegetables,Carrots,Bunch,All Sizes,NA,NA,NA,Daucus carota,NA,1999-12-31,1999-12-31,NA,NA,NA
+4095,Vegetables,Turnip,Yellow,All Sizes,NA,NA,NA,Brassica rapa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4096,Fruits,Apples,Ginger Gold,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4097,Fruits,Apples,Ginger Gold,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4098,Fruits,Apples,Akane,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4099,Fruits,Apples,Akane,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4100,Fruits,Apples,Fireside,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4101,Fruits,Apples,Braeburn,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4102,Fruits,Apples,Fireside,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4103,Fruits,Apples,Braeburn,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4104,Fruits,Apples,Cortland,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4105,Fruits,Apples,Cox Orange Pippin,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4106,Fruits,Apples,Cortland,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4107,Fruits,Apples,Crab,All Sizes,NA,NA,NA,Malus sylvestris,NA,1999-12-31,1999-12-31,NA,NA,NA
+4108,Fruits,Apples,Crispin/Mutsu,Small,100 size and smaller,Average Fruit Weight = less than 205g,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4109,Fruits,Apples,Crispin/Mutsu,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4110,Fruits,Apples,Crispin/Mutsu,Large,88 size and larger,Average Fruit Weight = 205g and above,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4111,Fruits,Apples,Crispin/Mutsu,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4112,Fruits,Apples,Regent,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4113,Fruits,Apples,Criterion,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4114,Fruits,Apples,Regent,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4115,Fruits,Apples,Criterion,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4116,Fruits,Apples,Early,Small,100 size and smaller,Average Fruit Weight = less than 205g,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4117,Fruits,Apples,Early,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4118,Fruits,Apples,Early,Large,88 size and larger,Average Fruit Weight = 205g and above,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4119,Fruits,Apples,Early,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4120,Fruits,Apples,Fiesta,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4121,Fruits,Apples,Elstar,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4122,Fruits,Apples,Sciros,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,Pacific Rose,1999-12-31,1999-12-31,NA,NA,NA
+4123,Fruits,Apples,Elstar,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4124,Fruits,Apples,Empire,Small,100 size and smaller,Average Fruit Weight = less than 205g,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4125,Fruits,Apples,Empire,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4126,Fruits,Apples,Empire,Large,88 size and larger,Average Fruit Weight = 205g and above,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4127,Fruits,Apples,Empire,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4128,Fruits,Apples,Cripps Pink,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,Pink Lady,2002-06-01,2002-06-01,NA,NA,NA
+4129,Fruits,Apples,Fuji,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4130,Fruits,Apples,Cripps Pink,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,Pink Lady,2002-06-01,2002-06-01,NA,NA,NA
+4131,Fruits,Apples,Fuji,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4132,Fruits,Apples,Gala,Small,100 size and smaller,Average Fruit Weight = less than 205g,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4133,Fruits,Apples,Gala,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4134,Fruits,Apples,Gala,Large,88 size and larger,Average Fruit Weight = 205g and above,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4135,Fruits,Apples,Gala,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4136,Fruits,Apples,Golden Delicious,Small,100 size and smaller,Average Fruit Weight = less than 205g,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4137,Fruits,Apples,Golden Delicious,Large,88 size and larger,Average Fruit Weight = 205g and above,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4138,Fruits,Apples,Granny Smith,Small,100 size and smaller,Average Fruit Weight = less than 205g,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4139,Fruits,Apples,Granny Smith,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4140,Fruits,Apples,Idared,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4141,Fruits,Apples,Jonamac,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4142,Fruits,Apples,Idared,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4143,Fruits,Apples,Jonamac,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4144,Fruits,Apples,Jonagold,Small,100 size and smaller,Average Fruit Weight = less than 205g,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4145,Fruits,Apples,Jonagold,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4146,Fruits,Apples,Jonagold,Large,88 size and larger,Average Fruit Weight = 205g and above,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4147,Fruits,Apples,Jonagold,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4148,Fruits,Apples,Jonathan,Small,100 size and smaller,Average Fruit Weight = less than 205g,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4149,Fruits,Apples,Jonathan,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4150,Fruits,Apples,Jonathan,Large,88 size and larger,Average Fruit Weight = 205g and above,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4151,Fruits,Apples,Jonathan,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4152,Fruits,Apples,McIntosh,Small,100 size and smaller,Average Fruit Weight = less than 205g,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4153,Fruits,Apples,McIntosh,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4154,Fruits,Apples,McIntosh,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4155,Fruits,Apples,Paulared,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4156,Fruits,Apples,Gravenstein,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4157,Fruits,Apples,Paulared,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4158,Fruits,Apples,Gravenstein,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4159,Vegetables,Onions,Vidalia,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4160,Fruits,Apples,Pippin,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4161,Vegetables,Onions,Texas Sweet,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4162,Fruits,Apples,Pippin,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4163,Vegetables,Onions,Walla Walla,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4164,Vegetables,Onions,Maui,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4165,Vegetables,Onions,California Sweet,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4166,Vegetables,Onions,Other Sweet,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4167,Fruits,Apples,Red Delicious,Small,100 size and smaller,Average Fruit Weight = less than 205g,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4168,Fruits,Apples,Red Delicious,Large,88 size and larger,Average Fruit Weight = 205g and above,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4169,Fruits,Apples,Rome,Small,100 size and smaller,Average Fruit Weight = less than 205g,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4170,Fruits,Apples,Rome,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4171,Fruits,Apples,Rome,Large,88 size and larger,Average Fruit Weight = 205g and above,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4172,Fruits,Apples,Rome,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4173,Fruits,Apples,Royal Gala,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4174,Fruits,Apples,Royal Gala,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4176,Fruits,Apples,Southern Snap,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4177,Fruits,Apples,Spartan,Small,100 size and smaller,Average Fruit Weight = less than 205g,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4178,Fruits,Apples,Spartan,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4179,Fruits,Apples,Spartan,Large,88 size and larger,Average Fruit Weight = 205g and above,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4180,Fruits,Apples,Spartan,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4181,Fruits,Apples,Stayman,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4182,Fruits,Apples,Sturmer Pippin,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4183,Fruits,Apples,Stayman,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4185,Fruits,Apples,York,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4186,Fruits,Bananas,Yellow (includes Cavendish),Small,Size: 7 ½ (19cm) maximum with pulp length measured over convex fruit surface,NA,NA,Musa spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4187,Fruits,Apples,York,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4188,Fruits,Nectarine,"White Flesh, Tree Ripened, Ready-to-eat",Small,70 size and smaller,Average Fruit Weight =  less than 185g,NA,Prunus persica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4189,Fruits,Apples,Winesap,Small,100 size and smaller,Average Fruit Weight = less than 205g,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4190,Fruits,Apples,Winesap,Small,100 size and smaller,Average Fruit Weight = less than 205g,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4191,Fruits,Apples,Winesap,Large,88 size and larger,Average Fruit Weight = 205g and above,"Restricted for items grown in all states east of Colorado, New Mexico, Wyoming and Montana in the U.S. and east of the Ontario/Manitoba border in Canada.",Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4192,Fruits,Apples,Winesap,Large,88 size and larger,Average Fruit Weight = 205g and above,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4193,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4194,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4195,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4196,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4197,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4198,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4199,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4200,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4201,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4202,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4203,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4204,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4205,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4206,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4207,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4208,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4209,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4210,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4211,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4212,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4213,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4214,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4215,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4216,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4217,Fruits,Apples,Retailer Assigned,All Sizes,NA,NA,NA,Malus pumila,NA,1999-12-31,1999-12-31,NA,NA,NA
+4218,Fruits,Apricots,Regular,Small,"Less than 2-3/16 inch,Less than 55 mm Average Fruit Dimensions",NA,NA,Prunus armeniaca,NA,1999-12-31,1999-12-31,NA,NA,NA
+4219,Fruits,Apricots,Retailer Assigned,All Sizes,NA,NA,NA,Prunus armeniaca,NA,2020-03-09,1999-12-31,NA,NA,NA
+4220,Fruits,Atemoyas,NA,All Sizes,NA,NA,NA,Annona spp.,NA,2018-10-08,1999-12-31,NA,NA,NA
+4221,Fruits,Avocados,Green,Small,32 size and smaller,NA,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,Persea americana,NA,2018-10-08,1999-12-31,NA,NA,NA
+4222,Fruits,Avocados,Green,Small,48 size and smaller,Average Fruit Weight = less than 280g,NA,Persea americana,NA,2018-10-08,1999-12-31,NA,NA,NA
+4223,Fruits,Avocados,Green,Large,18 size and larger,NA,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,Persea americana,NA,2018-10-08,1999-12-31,NA,NA,NA
+4224,Fruits,Avocados,Green,Large,40 size and larger,Average Fruit Weight = 280g and above,NA,Persea americana,NA,2018-10-08,1999-12-31,NA,NA,NA
+4225,Fruits,Avocados,Hass,Large,48 and 40 size,Average Fruit Weight = 190g - under 315g,NA,Persea americana,NA,1999-12-31,1999-12-31,NA,NA,NA
+4226,Fruits,Avocados,Cocktail/Seedless,All Sizes,NA,NA,NA,Musa spp.,NA,2018-10-08,1999-12-31,NA,NA,NA
+4227,Fruits,Avocados,Retailer Assigned,All Sizes,NA,NA,NA,Persea americana,NA,1999-12-31,1999-12-31,NA,NA,NA
+4228,Fruits,Avocados,Retailer Assigned,All Sizes,NA,NA,NA,Persea americana,NA,1999-12-31,1999-12-31,NA,NA,NA
+4229,Fruits,Bananas,Burro,All Sizes,NA,NA,NA,Musa spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4230,Fruits,Bananas,Dominique,All Sizes,NA,NA,NA,Musa spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4231,Fruits,Bananas,Green,All Sizes,NA,NA,NA,Musa spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4232,Fruits,Bananas,Leaves,All Sizes,NA,NA,NA,Musa spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4233,Fruits,Bananas,Apple/Manzano,All Sizes,NA,NA,NA,Musa spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4234,Fruits,Bananas,baby/Nino,All Sizes,NA,NA,NA,Musa spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4235,Fruits,Bananas,Plantain/Macho,All Sizes,NA,NA,NA,Musa ssp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4236,Fruits,Bananas,Red,All Sizes,NA,NA,NA,Musa spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4237,Fruits,Bananas,Retailer Assigned,All Sizes,NA,NA,NA,Musa spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4238,Fruits,Bananas,Retailer Assigned,All Sizes,NA,NA,NA,Musa spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4239,Fruits,Berries,Blackberries,All Sizes,NA,NA,NA,Rubus fruticosus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4240,Fruits,Berries,Blueberries,All Sizes,NA,NA,NA,Vaccinium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4241,Fruits,Berries,Boysenberries,All Sizes,NA,NA,NA,Rubus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4242,Fruits,Berries,Cranberries,All Sizes,NA,NA,NA,Vaccinium macrocarpon,NA,1999-12-31,1999-12-31,NA,NA,NA
+4243,Fruits,Berries,Gooseberries,All Sizes,NA,NA,NA,Ribes uva-crispa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4244,Fruits,Berries,Raspberries - Black,All Sizes,NA,NA,NA,R.occidentalis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4245,Fruits,Berries,Raspberries - Golden,All Sizes,NA,NA,NA,Rubus idaeus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4246,Fruits,Berries,Strawberries,Pint,NA,NA,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,Fragaria ananassa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4247,Fruits,Berries,Strawberries,Quart,NA,NA,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,Fragaria ananassa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4248,Fruits,Berries,Strawberries,Quart,NA,NA,NA,Fragaria ananassa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4249,Fruits,Berries,Strawberries,Bulk 3-Pack (3 Pints),NA,NA,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,Fragaria ananassa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4250,Fruits,Berries,Strawberries,Bulk 3-Pack (3 Pints),NA,NA,NA,Fragaria ananassa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4251,Fruits,Berries,Long-stemmed Strawberries,All Sizes,NA,NA,NA,Fragaria ananassa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4252,Fruits,Berries,Retailer Assigned,All Sizes,NA,NA,NA,Rubus spp.,NA,2020-03-09,1999-12-31,NA,NA,NA
+4253,Fruits,Berries,Retailer Assigned,All Sizes,NA,NA,NA,Rubus spp.,NA,2020-03-09,1999-12-31,NA,NA,NA
+4254,Fruits,Breadfruit,NA,All Sizes,NA,NA,NA,Artocarpus altilis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4255,Fruits,Cactus Pear (Prickly Pear),NA,All Sizes,NA,NA,NA,Opuntia spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4256,Fruits,Carambola (Starfruit),NA,All Sizes,NA,NA,NA,Averrhoa carambola,NA,1999-12-31,1999-12-31,NA,NA,NA
+4257,Fruits,Cherimoya,NA,All Sizes,NA,NA,NA,Annona cherimola,NA,1999-12-31,1999-12-31,NA,NA,NA
+4258,Fruits,Cherries,Golden/Rainier/White,All Sizes,NA,NA,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4259,Fruits,Cherries,Retailer Assigned,All Sizes,NA,NA,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4260,Fruits,Coconuts,In Husk/Waternut,All Sizes,NA,NA,NA,Cocos nucifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4261,Fruits,Coconuts,Husked,All Sizes,NA,NA,NA,Cocos nucifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4262,Fruits,Coconuts,Retailer Assigned,All Sizes,NA,NA,NA,Cocos nucifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4263,Fruits,Dates,Fresh - Regular,All Sizes,NA,NA,NA,Phoenix dactylifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4264,Fruits,Dates,Fresh - Retailer Assigned,All Sizes,NA,NA,NA,Phoenix dactylifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4265,Fruits,Feijoa,NA,All Sizes,NA,NA,NA,Acca sellowiana,NA,1999-12-31,1999-12-31,NA,NA,NA
+4266,Fruits,Figs,Black,All Sizes,NA,NA,NA,Ficus carica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4267,Fruits,Figs,Brown,All Sizes,NA,NA,NA,Ficus carica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4268,Fruits,Figs,White/Green,All Sizes,NA,NA,NA,Ficus carica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4269,Fruits,Figs,Retailer Assigned,All Sizes,NA,NA,NA,Ficus carica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4270,Fruits,Grapes,Blue/Black Seeded (Ribier/Exotic/Niabel),All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4271,Fruits,Grapes,Champagne,All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4272,Fruits,Grapes,Concord,All Sizes,NA,NA,NA,V.labrusca,NA,1999-12-31,1999-12-31,NA,NA,NA
+4273,Fruits,Grapes,Red Seeded (Cardinal/Emperor/Queen/Christmas Rose),All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4274,Fruits,Grapes,White/Green Seeded (All others not listed),All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4275,Fruits,Grapes,Retailer Assigned,All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4276,Fruits,Grapes,Retailer Assigned,All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4277,Fruits,Grapes,Retailer Assigned,All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4278,Fruits,Grapes,Retailer Assigned,All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4279,Fruits,Grapefruit,Pummelo - White,All Sizes,NA,NA,NA,C.grandis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4280,Fruits,Grapefruit,"Ruby/Red/Pink (Includes Ray Ruby, Ray, Ruby Red)",Small,40 size and smaller,NA,"Restricted for items grown in Texas, Arizona and New Mexico in the U.S.",Citrus paradisi,NA,1999-12-31,1999-12-31,NA,NA,NA
+4281,Fruits,Grapefruit,"Ruby/Red/Pink (ncludes Ray Ruby, Ruby, Ruby Red)",Large,32 and 36 size,NA,Restricted for items grown east of the Mississippi River in the U.S or east of the Ontario/Manitoba border in Canada.,Citrus paradisi,NA,2002-05-02,2002-05-02,NA,NA,NA
+4282,Fruits,Grapefruit,"Ruby/Red/Pink (Includes Ray Ruby, Ruby, Ruby Red)",Large,32 and 36 size,Average Fruit Dimensions = 97 - under 108mm,NA,Citrus paradisi,NA,2002-06-02,2002-06-02,NA,NA,NA
+4283,Fruits,Grapefruit,"Ruby/Red/Pink (Includes Ray Ruby, Ray, Ruby Red)",Large,36 and 32 size,NA,"Restricted for items grown in Texas, Arizona and New Mexico in the U.S.",Citrus paradisi,NA,1999-12-31,1999-12-31,NA,NA,NA
+4284,Fruits,Grapefruit,Deep Red,Small,40 size and smaller,NA,Restricted for items grown east of the Mississippi River in the U.S or east of the Ontario/Manitoba border in Canada.,Citrus paradisi,NA,1999-12-31,1999-12-31,NA,NA,NA
+4285,Fruits,Grapefruit,Deep Red,Small,40 size and smaller,Average Fruit Dimensions = less than 97mm,NA,Citrus paradisi,NA,2002-06-02,2002-06-02,NA,NA,NA
+4286,Fruits,Grapefruit,Deep Red,Small,40 size and smaller,NA,"Restricted for items grown in Texas, Arizona and New Mexico in the U.S.",Citrus paradisi,NA,1999-12-31,1999-12-31,NA,NA,NA
+4287,Fruits,Grapefruit,Deep Red,Large,32 and 36 size,NA,Restricted for items grown east of the Mississippi River in the U.S or east of the Ontario/Manitoba border in Canada.,Citrus paradisi,NA,2002-05-02,2002-05-02,NA,NA,NA
+4288,Fruits,Grapefruit,Deep Red,Large,32 and 36 size,Average Fruit Dimensions = 97-under 108mm,NA,Citrus paradisi,NA,2002-06-02,2002-06-02,NA,NA,NA
+4289,Fruits,Grapefruit,Deep Red,Large,36 and 32 size,NA,"Restricted for items grown in Texas, Arizona and New Mexico in the U.S.",Citrus paradisi,NA,2015-09-08,1999-12-31,NA,NA,NA
+4290,Fruits,Grapefruit,White,Small,40 size and smaller,NA,Restricted for items grown east of the Mississippi River in the U.S or east of the Ontario/Manitoba border in Canada.,Citrus paradisi,NA,1999-12-31,1999-12-31,NA,NA,NA
+4291,Fruits,Grapefruit,White,Small,40 size and smaller,Average Fruit Dimensions = less than 97mm,NA,Citrus paradisi,NA,2002-06-02,2002-06-02,NA,NA,NA
+4292,Fruits,Grapefruit,White,Small,40 size and smaller,NA,"Restricted for items grown in Texas, Arizona and New Mexico in the U.S.",Citrus paradisi,NA,1999-12-31,1999-12-31,NA,NA,NA
+4293,Fruits,Grapefruit,White,Large,32 and 36 size,32 and 36 size,Restricted for items grown east of the Mississippi River in the U.S or east of the Ontario/Manitoba border in Canada.,Citrus paradisi,NA,2002-05-02,2002-05-02,NA,NA,NA
+4294,Fruits,Grapefruit,White,Large,32 and 36 size,Average Fruit Dimensions = 97-under 108mm,NA,Citrus paradisi,NA,2002-06-02,2002-06-02,NA,NA,NA
+4295,Fruits,Grapefruit,White,Large,36 and 32 size,NA,"Restricted for items grown in Texas, Arizona and New Mexico in the U.S.",Citrus paradisi,NA,1999-12-31,1999-12-31,NA,NA,NA
+4296,Fruits,Grapefruit,Retailer Assigned,All Sizes,NA,NA,NA,Citrus paradisi,NA,2020-03-09,1999-12-31,NA,NA,NA
+4297,Fruits,Grapefruit,Retailer Assigned,All Sizes,NA,NA,NA,Citrus paradisi,NA,2020-03-09,1999-12-31,NA,NA,NA
+4298,Fruits,Grapefruit,Retailer Assigned,All Sizes,NA,NA,NA,Citrus paradisi,NA,2020-03-09,1999-12-31,NA,NA,NA
+4299,Fruits,Guava,NA,All Sizes,NA,NA,NA,Psidium guajava,NA,1999-12-31,1999-12-31,NA,NA,NA
+4300,Fruits,Homli Fruit,NA,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4301,Fruits,Kiwifruit,Retailer Assigned,All Sizes,NA,NA,NA,Actinidia deliciosa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4302,Fruits,Kiwano (Horned Melon),NA,All Sizes,NA,NA,NA,Cucumis metuliferus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4303,Fruits,Kumquat,NA,All Sizes,NA,NA,NA,Fortunella spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4304,Fruits,Lemons,Retailer Assigned,All Sizes,NA,NA,NA,Citrus limon,NA,2020-03-09,1999-12-31,NA,NA,NA
+4305,Fruits,Limes,Key (incl. Mexican & West Indian),All Sizes,NA,NA,NA,Citrus aurantifolia,NA,1999-12-31,1999-12-31,NA,NA,NA
+4306,Fruits,Limes,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4307,Fruits,Longan,NA,All Sizes,NA,NA,NA,Dimocarpus longan,NA,2018-10-08,1999-12-31,NA,NA,NA
+4308,Fruits,Loquats,NA,All Sizes,NA,NA,NA,Eribotyra japonica,NA,2018-10-08,1999-12-31,NA,NA,NA
+4309,Fruits,Lychees,NA,All Sizes,NA,NA,NA,Litchi chinensis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4310,Fruits,Mamey,NA,All Sizes,NA,NA,NA,Pouteria sapota,NA,1999-12-31,1999-12-31,NA,NA,NA
+4311,Fruits,Mango,Green (Includes Keitt and Francis),Small,12 size and smaller,NA,NA,Mangifera indica,(Includes Keitt and Francis varieties),2007-05-15,2007-05-15,NA,NA,NA
+4312,Fruits,Mango,"Yellow (Includes Oro, Ataulfo/Honey Manila)",Small,18 size and smaller,NA,NA,Mangifera indica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4313,Fruits,Mango,Retailer Assigned,All Sizes,NA,NA,NA,Mangifera indica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4314,Fruits,Mango,Retailer Assigned,All Sizes,NA,NA,NA,Mangifera indica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4315,Fruits,Mango,Retailer Assigned,All Sizes,NA,NA,NA,Mangifera indica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4316,Fruits,Mango,Retailer Assigned,All Sizes,NA,NA,NA,Mangifera indica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4317,Fruits,Melon,Canary/Yellow Honeydew,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4318,Fruits,Melon,Cantaloupe/Muskmelon,Small,18 size and smaller,Average Fruit Weight =  less than 1135g,Restricted for items grown east of the Mississippi River in the U.S or east of the Ontario/Manitoba border in Canada.,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4319,Fruits,Melon,Cantaloupe/Muskmelon,Large,15 size and larger,Average Fruit Weight =  1135g and above,Restricted for items grown east of the Mississippi River in the U.S or east of the Ontario/Manitoba border in Canada.,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4320,Fruits,Melon,Casaba,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4321,Fruits,Melon,Cinnabar,All Sizes,NA,NA,NA,Cucumis melo,NA,2018-10-08,1999-12-31,NA,NA,NA
+4322,Fruits,Melon,Crenshaw,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4323,Fruits,Berries,Strawberries,Bulk,NA,NA,NA,Fragaria ananassa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4324,Fruits,Melon,French Afternoon,All Sizes,NA,NA,NA,Cucumis melo,NA,2018-10-08,1999-12-31,NA,NA,NA
+4325,Fruits,Melon,French Breakfast,All Sizes,NA,NA,NA,Cucumis melo,NA,2018-10-08,1999-12-31,NA,NA,NA
+4326,Fruits,Melon,Galia,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4327,Fruits,Melon,Orange Flesh/Cantaline,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4328,Fruits,Limequats,NA,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4329,Fruits,Melon,Honeydew/White Honeydew,Small,6 size and smaller,Average Fruit Weight =  less than 2040g,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4330,Fruits,Melon,Mayan,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4331,Fruits,Melon,Mickey Lee Watermelon/Sugarbaby,All Sizes,NA,NA,NA,Cucumis melo,NA,2018-10-08,1999-12-31,NA,NA,NA
+4332,Fruits,Melon,Muskmelon,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4333,Fruits,Melon,Pepino,All Sizes,NA,NA,NA,Cucumis melo,NA,2018-10-08,1999-12-31,NA,NA,NA
+4334,Fruits,Melon,Persian,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4335,Fruits,Melon,Prince,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4336,Fruits,Melon,Santa Claus,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4337,Fruits,Melon,Saticoy,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4338,Fruits,Melon,Sharlin,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4339,Fruits,Melon,Spanish/Tendral,All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4340,Fruits,Melon,Watermelon - Yellow,All Sizes,NA,NA,NA,Citrullus lanatus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4341,Fruits,Melon,"Watermelon - Yellow, Seedless",All Sizes,NA,NA,NA,Citrullus lanatus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4342,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4343,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4344,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4345,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4346,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4347,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4348,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4349,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4350,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4351,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4352,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4353,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4354,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4355,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4356,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4357,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4358,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4359,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4360,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4361,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4362,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4363,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4364,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4365,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4366,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4367,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4368,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4369,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4370,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4371,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4372,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4373,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4374,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4375,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4376,Fruits,Melon,Retailer Assigned (includes pre-cut melons),All Sizes,NA,NA,NA,Cucumis melo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4377,Fruits,Nectarine,"Yellow Flesh, Tree Ripened, Ready-to-eat",Small,70 size and smaller,Average Fruit Weight =  less than 185g,NA,Prunus persica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4378,Fruits,Nectarine,"Yellow Flesh, Tree Ripened, Ready-to-eat",Large,66 size and larger,Average Fruit Weight =  185g and above,NA,Prunus persica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4379,Fruits,Nectarine,Retailer Assigned,All Sizes,NA,NA,NA,Prunus persica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4380,Fruits,Nectarine,Retailer Assigned,All Sizes,NA,NA,NA,Prunus persica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4381,Fruits,Oranges,Blood,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4382,Fruits,Oranges,Juice,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4383,Fruits,Tangelo,Minneola,All Sizes,NA,NA,NA,Citro paradisi X,NA,1999-12-31,1999-12-31,NA,NA,NA
+4384,Fruits,Oranges,Navel,Small,125 size and smaller,Average Fruit Dimensions = less than 77mm,"Restricted for items grown east of the Mississippi River in the U.S., east of the Ontario/Manitoba border in Canada and Texas, Arizona and New Mexico in the U.S.",Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4385,Fruits,Oranges,Navel,Large,100 size and larger,Average Fruit Dimensions = 77mm and above,"Restricted for items grown east of the Mississippi River in the U.S., east of the Ontario/Manitoba border in Canada and Texas, Arizona and New Mexico in the U.S.",Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4386,Fruits,Oranges,Temple,Small,125 size and smaller,Average Fruit Dimensions = less than 65mm,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4387,Fruits,Oranges,Temple,Large,100 size and larger,Average Fruit Dimensions = 65mm and above,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4388,Fruits,Oranges,Valencia,Large,80 size and larger,Average Fruit Dimensions = 77mm and above,Restricted for items grown east of the Mississippi River in the U.S or east of the Ontario/Manitoba border in Canada.,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4388,Fruits,Oranges,Valencia,Large,56 size and larger,Average Fruit Dimensions = 84mm and above,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4389,Fruits,Oranges,Retailer Assigned,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4390,Fruits,Oranges,Retailer Assigned,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4391,Fruits,Oranges,Retailer Assigned,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4392,Fruits,Oranges,Retailer Assigned,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4393,Fruits,Oranges,Retailer Assigned,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4394,Fruits,Papaya/Pawpaw,Regular,Large,9 size and larger,NA,NA,Carica papaya,NA,1999-12-31,1999-12-31,NA,NA,NA
+4395,Fruits,Papaya/Pawpaw,Cooking/Mexican,All Sizes,NA,NA,NA,Carica papaya,NA,1999-12-31,1999-12-31,NA,NA,NA
+4396,Fruits,Papaya/Pawpaw,Retailer Assigned,All Sizes,NA,NA,NA,Carica papaya,NA,1999-12-31,1999-12-31,NA,NA,NA
+4397,Fruits,Passion Fruit,Purple,All Sizes,NA,NA,NA,Passiflora edulis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4398,Fruits,Passion Fruit,Retailer Assigned,All Sizes,NA,NA,NA,Passiflora spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4399,Fruits,Peaches,Indian,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4400,Fruits,Peaches,White Flesh,Small,70 size and smaller,Average Fruit Weight =  less than 185g,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4401,Fruits,Peaches,White Flesh,Large,66 size and larger,Average Fruit Weight =  185g and above,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4402,Fruits,Peaches,Yellow Flesh,Small,70 size and smaller,Average Fruit Weight =  less than 185g,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4403,Fruits,Peaches,Yellow Flesh,Large,66 size and larger,Average Fruit Weight =  185g and above,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4404,Fruits,Peaches,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4405,Fruits,Peaches,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4406,Fruits,Pears,Asian/Nashi - White,All Sizes,NA,NA,NA,Pyrus pyrifolia,NA,1999-12-31,1999-12-31,NA,NA,NA
+4407,Fruits,Pears,Asian/Nashi - Yellow,All Sizes,NA,NA,NA,Pyrus pyrifolia,NA,1999-12-31,1999-12-31,NA,NA,NA
+4408,Fruits,Pears,Asian/Nashi - Brown,All Sizes,NA,NA,NA,Pyrus pyrifolia,NA,1999-12-31,1999-12-31,NA,NA,NA
+4409,Fruits,Pears,Bartlett/Williams/WBC,Large,100 size and larger,Average Fruit Weight =  180g and above,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4410,Fruits,Pears,Bartlett - Red/Red Sensation,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4411,Fruits,Pears,Bosc/Beurre Bosc,Small,110 size and smaller,Average Fruit Weight =  less than 180g,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4412,Fruits,Pears,Bosc/Beurre Bosc,Large,100 size and larger,Average Fruit Weight =  185g and above,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4413,Fruits,Pears,Bosc/Beurre Bosc,Large,100 size and larger,Average Fruit Weight =  185g and above,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4414,Fruits,Pears,Comice/ Doyenne du Comice,All Sizes,NA,NA,NA,Pyrus spp.,NA,2009-06-16,2009-06-16,NA,NA,NA
+4415,Fruits,Pears,Red,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4416,Fruits,Pears,Anjou,Large,100 size and larger,Average Fruit Weight =  180g and above,NA,Pyrus spp.,D'Anjou,1999-12-31,1999-12-31,NA,NA,NA
+4417,Fruits,Pears,Anjou - Red,All Sizes,NA,NA,NA,Pyrus spp.,D'Anjou,1999-12-31,1999-12-31,NA,NA,NA
+4418,Fruits,Pears,Forelle/Corella,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4419,Fruits,Pears,French,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4420,Fruits,Pears,King Royal,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4421,Fruits,Pears,Packham/Packhams Triumph,All Sizes,NA,NA,NA,Pyrus spp.,NA,2009-06-16,2009-06-16,NA,NA,NA
+4422,Fruits,Pears,Seckel,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4423,Fruits,Pears,Tree Ripened,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4424,Fruits,Pears,Winter Nelis/Honey,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4425,Fruits,Pears,Retailer Assigned,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4426,Fruits,Pears,Retailer Assigned,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4427,Fruits,Persimmon,Regular (American Persimmon),All Sizes,NA,NA,NA,Diospyros spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4428,Fruits,Persimmon,Japanese/Sharonfruit (Kaki),All Sizes,NA,NA,NA,Diospyros spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4429,Fruits,Persimmon,Retailer Assigned,All Sizes,NA,NA,NA,Diospyros spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4430,Fruits,Pineapple,NA,Large,10 size and larger,NA,Sizes for pineapple based on two-layer lug.,Ananas comosus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4431,Fruits,Pineapple,Jet Fresh,Small,12 size and smaller,NA,Sizes for pineapple based on two-layer lug.,Ananas comosus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4432,Fruits,Pineapple,Jet Fresh,Large,10 size and larger,NA,Sizes for pineapple based on two-layer lug.,Ananas comosus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4433,Fruits,Pineapple,Retailer Assigned,All Sizes,NA,NA,Sizes for pineapple based on two-layer lug.,Ananas comosus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4434,Fruits,Plums,"Green (Includes Dolly, Kelsey, Wickson)",Small,60 size and smaller,Average Fruit Dimensions < 50MM,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4435,Fruits,Plums,"Green (Includes Dolly, Kelsey, Wickson)",Large,55 size and larger,Average Fruit Dimensions 50MM & ABOVE,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4436,Fruits,Plums,Italian Prune/Sugar,All Sizes,NA,NA,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4437,Fruits,Plums,"Purple (Includes Queen Rosa, Laroda, Nublana, Queen Ann, Simka, El Dorado)",Small,60 size and smaller,Average Fruit Dimensions < 50MM,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4438,Fruits,Plums,"Purple (Includes Queen Rosa, Laroda, Nublana, Queen Ann, Simka, El Dorado) ",Large,55 size and larger,Average Fruit Dimensions 50MM & ABOVE,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4439,Fruits,Plums,Tree Ripened,Small,60 size and smaller,Average Fruit Dimensions < 50MM,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4440,Fruits,Plums,Tree Ripened,Large,55 size and larger,Average Fruit Dimensions 50MM & ABOVE,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4441,Fruits,Plums,Yellow (Includes Golden Globe),Small,60 size and smaller,Average Fruit Dimensions < 50MM,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4442,Fruits,Plums,Yellow (Includes Golden Globe),Large,55 size and larger,Average Fruit Dimensions 50MM & ABOVE,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4443,Fruits,Plums,Retailer Assigned,All Sizes,NA,NA,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4444,Fruits,Plums,Retailer Assigned,All Sizes,NA,NA,NA,Prunus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4445,Fruits,Pomegranate,NA,Small,42 size and smaller,Average Fruit Dimensions = less than 3 inch,NA,Punica granatum,NA,2007-10-30,2007-10-30,NA,NA,NA
+4446,Fruits,Pomegranate,Retailer Assigned,All Sizes,NA,NA,NA,Punica granatum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4447,Fruits,Quince,NA,All Sizes,NA,NA,NA,Cydonia oblonga,NA,1999-12-31,1999-12-31,NA,NA,NA
+4448,Fruits,Tamarind,NA,All Sizes,NA,NA,NA,Tamarindus indica,NA,2020-04-03,1999-12-31,NA,NA,NA
+4449,Fruits,Tangerines/Mandarins,Sunburst,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4450,Fruits,Tangerines/Mandarins,Clementine (includes Fortune),All Sizes,NA,NA,"This code can be used anyplace in the globe; however, there are other codes for this item that can be used outside of North America.",Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4451,Fruits,Tangerines/Mandarins,Dancy,All Sizes,NA,NA,NA,Citrus reticulata,NA,2018-10-08,1999-12-31,NA,NA,NA
+4452,Fruits,Tangerines/Mandarins,Fairchild,All Sizes,NA,NA,NA,Citrus spp. reticulata blanco,NA,2018-10-08,1999-12-31,NA,NA,NA
+4453,Fruits,Tangerines/Mandarins,Honey/Murcott,All Sizes,NA,NA,"This code can be used anyplace in the globe; however, there are other codes for this item that can be used outside of North America.",Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4454,Fruits,Tangerines/Mandarins,Kinnow,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4455,Fruits,Tangerines/Mandarins,Mandarin/Royal,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4456,Fruits,Tangelo,NA,All Sizes,NA,NA,NA,Citro paradisi X,NA,1999-12-31,1999-12-31,NA,NA,NA
+4457,Fruits,Tangerines/Mandarins,Retailer Assigned,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4458,Fruits,Tangerines/Mandarins,Retailer Assigned,All Sizes,NA,NA,NA,Citrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4459,Fruits,Tangelo,Jamaican,All Sizes,NA,NA,NA,Citro paradisi X,Ugli®,1999-12-31,1999-12-31,NA,NA,NA
+4460,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4461,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4462,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4463,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4464,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4465,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4466,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4467,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4468,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4469,All,For Use With All Commodities,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4470,Fruits,Salad Bar,NA,All Sizes,NA,NA,NA,NA,NA,2018-10-08,1999-12-31,NA,NA,NA
+4471,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4472,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4473,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4474,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4475,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4476,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4477,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4478,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4479,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4480,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4481,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4482,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4483,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4484,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4485,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4486,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4487,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4488,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4489,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4490,Fruits,Other Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4491,Fruits,Grapefruit,"Ruby/Red/Pink (includes Ray Ruby, Ruby, Ruby Red)",Extra Large,27 size and larger,NA,Restricted for items grown east of the Mississippi River in the U.S or east of the Ontario/Manitoba border in Canada.,Citrus paradisi,NA,2002-05-02,2002-05-02,NA,NA,NA
+4492,Fruits,Grapefruit,"Ruby/Red/Pink (includes Ray Ruby, Ruby, Ruby Red)",Extra Large,27 size and larger,Average Fruit Dimensions = 108mm and above,NA,Citrus paradisi,NA,2002-06-02,2002-06-02,NA,NA,NA
+4493,Fruits,Grapefruit,"Ruby/Red/Pink (Includes Ray Ruby, Ruby, Ruby Red)",Extra Large,27 size and larger,NA,"Restricted for items grown in Texas, Arizona and New Mexico in the U.S.",Citrus paradisi,NA,1999-12-31,1999-12-31,NA,NA,NA
+4494,Fruits,Grapefruit,Deep Red,Extra Large,27 size and larger,NA,Restricted for items grown east of the Mississippi River in the U.S or east of the Ontario/Manitoba border in Canada.,Citrus paradisi,NA,2002-05-02,2002-05-02,NA,NA,NA
+4495,Fruits,Grapefruit,Deep Red,Extra Large,27 size and larger,Average Fruit Dimensions = 108mm and above,NA,Citrus paradisi,NA,2002-06-02,2002-06-02,NA,NA,NA
+4496,Fruits,Grapefruit,Deep Red,Extra Large,27 size and larger,NA,"Restricted for items grown in Texas, Arizona and New Mexico in the U.S.",Citrus paradisi,NA,1999-12-31,1999-12-31,NA,NA,NA
+4497,Fruits,Grapes,Sugraone,All Sizes,NA,NA,NA,Vitis vinifera,SUPERIOR SEEDLESS® brand,1999-12-31,1999-12-31,NA,NA,NA
+4498,Fruits,Grapes,White/Green Seedless (All others not listed above (including Autumn King)),All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4499,Fruits,Grapes,Crimson/Majestic,All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4500,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4501,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4502,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4503,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4504,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4505,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4506,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4507,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4508,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4509,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4510,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4511,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4512,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4513,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4514,Vegetables,Alfalfa Sprouts,NA,All Sizes,NA,NA,NA,Medicago sativa,NA,2018-10-08,1999-12-31,NA,NA,NA
+4515,Herbs,Fennel,Florence/Sweet Fennel/Fennel Bulb,All Sizes,NA,NA,NA,Foeniculum vulgare,NA,1999-12-31,1999-12-31,NA,NA,NA
+4516,Vegetables,Artichokes,NA,Small,48 size and smaller,NA,NA,Cynara scolymus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4517,Vegetables,Artichokes,Purple,Small,42 size and smaller,NA,NA,Cynara scolymus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4518,Vegetables,Artichokes,Purple,Large,36 size and larger,NA,NA,Cynara scolymus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4519,Vegetables,Artichokes,Baby/Cocktail,All Sizes,NA,NA,NA,Cynara scolymus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4520,Vegetables,Artichokes,Retailer Assigned,All Sizes,NA,NA,NA,Cynara scolymus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4521,Vegetables,Asparagus,Green,Large,x-large and jumbo size,NA,"This code can be used anyplace in the globe; however, there are other codes for this item that can be used outside of North America.",Asparagus officinalis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4522,Vegetables,Asparagus,White,Small,standard and large size,NA,"This code can be used anyplace in the globe; however, there are other codes for this item that can be used outside of North America.",Asparagus officinalis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4523,Vegetables,Asparagus,White,Large,x-large and jumbo size,NA,"This code can be used anyplace in the globe; however, there are other codes for this item that can be used outside of North America.",Asparagus officinalis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4524,Vegetables,Asparagus,Tips,All Sizes,NA,NA,NA,Asparagus officinalis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4525,Vegetables,Asparagus,Retailer Assigned,All Sizes,NA,NA,NA,Asparagus officinalis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4526,Vegetables,Asparagus,Retailer Assigned,All Sizes,NA,NA,NA,Asparagus officinalis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4527,Vegetables,Beans,Chinese Long/Snake,All Sizes,NA,NA,NA,Vigna sesquipedalis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4528,Vegetables,Beans,Fava/Broad,All Sizes,NA,NA,NA,Vicia faba,NA,1999-12-31,1999-12-31,NA,NA,NA
+4529,Vegetables,Beans,Lima,All Sizes,NA,NA,NA,Phaseolus lunatus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4530,Vegetables,Beans,Pole/Runner/Stick,All Sizes,NA,NA,NA,Phaseolus coccineus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4531,Vegetables,Beans,Purple Hull,All Sizes,NA,NA,NA,Phaseolus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4532,Vegetables,Beans,Shell,All Sizes,NA,NA,NA,Phaseolus vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+4533,Vegetables,Beans,Wax/Yellow,All Sizes,NA,NA,NA,Phaseolus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4534,Vegetables,Beans,Winged,All Sizes,NA,NA,NA,Psophocarpus      tetragonolobus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4535,Vegetables,Beans,Retailer Assigned,All Sizes,NA,NA,NA,Phaseolus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4536,Vegetables,Bean Sprouts,Mung Bean Sprouts,All Sizes,NA,NA,NA,Vigna radiata,NA,2018-10-08,1999-12-31,NA,NA,NA
+4537,Vegetables,Beets,Baby Golden,All Sizes,NA,NA,NA,Beta vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+4538,Vegetables,Beets,Baby Red,All Sizes,NA,NA,NA,Beta vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+4539,Vegetables,Beets,Bunch,All Sizes,NA,NA,NA,Beta vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+4540,Vegetables,Beets,Loose,All Sizes,NA,NA,NA,Beta vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+4541,Vegetables,Beets,Retailer Assigned,All Sizes,NA,NA,NA,Beta vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+4542,Vegetables,Beet Greens,NA,All Sizes,NA,NA,NA,Beta vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+4543,Vegetables,Belgian Endive (Witloof Chicory),NA,All Sizes,NA,NA,NA,Cichorium intybus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4544,Vegetables,Bok Choy (Pak Choi),Small/Baby,All Sizes,NA,NA,NA,Brassica rapa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4545,Vegetables,Bok Choy (Pak Choi),NA,All Sizes,NA,NA,NA,Brassica rapa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4546,Vegetables,Boniato,See also SWEET POTATO,All Sizes,NA,NA,NA,Ipomoea batato,NA,1999-12-31,1999-12-31,NA,NA,NA
+4547,Vegetables,Broccoli,Broccoli Rabe (Italian Rapini)/ Chinese Broccoli (GAI LAN),All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4548,Vegetables,Broccoli,Florettes,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4549,Vegetables,Broccoli,Retailer Assigned,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4550,Vegetables,Brussels Sprouts,NA,All Sizes,NA,NA,NA,Brassica olerace,NA,1999-12-31,1999-12-31,NA,NA,NA
+4551,Vegetables,Brussels Sprouts,Retailer Assigned,All Sizes,NA,NA,NA,Brassica olerace,NA,1999-12-31,1999-12-31,NA,NA,NA
+4552,Vegetables,Cabbage,Chinese/Napa/Wong Bok,All Sizes,NA,NA,NA,Brassica rapa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4553,Fruits,Pears,Taylors Gold,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4554,Vegetables,Cabbage,Red,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4555,Vegetables,Cabbage,"Savoy, Green",All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4556,Vegetables,Cabbage,Retailer Assigned,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4557,Vegetables,Cabbage,Retailer Assigned,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4558,Vegetables,Cactus Leaves (Nopales/Cactus Pads),NA,All Sizes,NA,NA,NA,Opuntia spp,NA,2018-10-08,1999-12-31,NA,NA,NA
+4559,Vegetables,Cardoon (Cardoni),NA,All Sizes,NA,NA,NA,Cynara cardunculus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4560,Vegetables,Carrots,Baby,All Sizes,NA,NA,NA,Daucus carota,NA,1999-12-31,1999-12-31,NA,NA,NA
+4561,Vegetables,Carrots,French,All Sizes,NA,NA,NA,Daucus carota,NA,1999-12-31,1999-12-31,NA,NA,NA
+4562,Vegetables,Carrots,Loose,All Sizes,NA,NA,NA,Daucus carota,NA,1999-12-31,1999-12-31,NA,NA,NA
+4563,Vegetables,Carrots,Carrot Sticks,All Sizes,NA,NA,NA,Daucus carota,NA,1999-12-31,1999-12-31,NA,NA,NA
+4564,Vegetables,Carrots,Retailer Assigned,All Sizes,NA,NA,NA,Daucus carota,NA,1999-12-31,1999-12-31,NA,NA,NA
+4565,Vegetables,Carrots,Retailer Assigned,All Sizes,NA,NA,NA,Daucus carota,NA,1999-12-31,1999-12-31,NA,NA,NA
+4566,Vegetables,Cauliflower,Florettes,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4567,Vegetables,Cauliflower,Green,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4568,Vegetables,Cauliflower,Purple,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4569,Vegetables,Cauliflower,Retailer Assigned,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4570,Vegetables,Cauliflower,Retailer Assigned,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4571,Vegetables,Cauliflower,Retailer Assigned,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4572,Vegetables,Cauliflower,NA,Large,9 size and larger,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4573,Vegetables,Cauliflower,Baby,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4575,Vegetables,Celery,Hearts,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4576,Vegetables,Celery,Celery Sticks,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4577,Vegetables,Celery,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4578,Vegetables,Celery,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4579,Vegetables,Celery,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4580,Vegetables,Celery,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4581,Vegetables,Celery,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4582,Vegetables,Celery,Bunch,Large,24 size and larger,NA,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4583,Vegetables,Celery,Bunch,Large,24 size and larger,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4584,Fruits,Mango,Green (Includes Keitt and Francis),Large,8 - 10 size,NA,Changed size break based on industry review and plu app approval for xl green mango,Mangifera indica,Keitt and Francis varieties,2009-01-29,2009-01-29,NA,NA,NA
+4585,Vegetables,Celery Root/Celeriac,NA,All Sizes,NA,NA,NA,Apium graveolens,NA,1999-12-31,1999-12-31,NA,NA,NA
+4586,Vegetables,Chard (Swiss Chard)/Silverbeet,Green,All Sizes,NA,NA,NA,Beta vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+4587,Vegetables,Chard (Swiss Chard)/Silverbeet,Red,All Sizes,NA,NA,NA,Beta vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+4588,Vegetables,Chard (Swiss Chard)/Silverbeet,Retailer Assigned,All Sizes,NA,NA,NA,Beta vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+4589,Vegetables,Corn,"Sweet Corn, Baby",All Sizes,NA,NA,NA,Zea mays,NA,1999-12-31,1999-12-31,NA,NA,NA
+4590,Vegetables,Corn,"Sweet Corn, Bi-Color",All Sizes,NA,NA,NA,Zea mays,NA,1999-12-31,1999-12-31,NA,NA,NA
+4591,Vegetables,Corn,Retailer Assigned,All Sizes,NA,NA,NA,Zea mays,NA,1999-12-31,1999-12-31,NA,NA,NA
+4592,Vegetables,Cucumber,Armenian,All Sizes,NA,NA,NA,Cucumis sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4593,Vegetables,Cucumber,English/Hot House/Long Seedless/Telegraph/Continental,All Sizes,NA,NA,NA,Cucumis sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4594,Vegetables,Cucumber,Japanese/White,All Sizes,NA,NA,NA,Cucumis sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4595,Vegetables,Cucumber,Lemon,All Sizes,NA,NA,NA,Cucumis sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4596,Vegetables,Cucumber,Pickling/Gherkin,All Sizes,NA,NA,NA,Cucumis sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4597,Vegetables,Cucumber,Retailer Assigned,All Sizes,NA,NA,NA,Cucumis sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4598,Vegetables,Daikon,(See also RADISH),All Sizes,NA,NA,NA,Raphanus sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4599,Vegetables,Eggplant (Aubergine),Baby,All Sizes,NA,NA,NA,Solanum melongena,NA,1999-12-31,1999-12-31,NA,NA,NA
+4600,Vegetables,Eggplant (Aubergine),Baby White,All Sizes,NA,NA,NA,Solanum melongena,NA,1999-12-31,1999-12-31,NA,NA,NA
+4601,Vegetables,Eggplant (Aubergine),Japanese,All Sizes,NA,NA,NA,Solanum melongena,NA,1999-12-31,1999-12-31,NA,NA,NA
+4602,Vegetables,Eggplant (Aubergine),White,All Sizes,NA,NA,NA,Solanum melongena,NA,1999-12-31,1999-12-31,NA,NA,NA
+4603,Vegetables,Eggplant (Aubergine),Retailer Assigned,All Sizes,NA,NA,NA,Solanum melongena,NA,1999-12-31,1999-12-31,NA,NA,NA
+4604,Vegetables,Endive/Chicory,NA,All Sizes,NA,NA,NA,Cichorium intybus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4605,Vegetables,Escarole/Batavian Chicory,Green,All Sizes,NA,NA,NA,Cichorium endivia,NA,2018-10-08,1999-12-31,NA,NA,NA
+4606,Vegetables,Fiddlehead Ferns,NA,All Sizes,NA,NA,NA,Matteauccia struthiopteris,NA,2018-10-08,1999-12-31,NA,NA,NA
+4607,Vegetables,Gai (Gui) Choy (Chinese Or Indian Mustard),Chinese or Indian Mustard,All Sizes,NA,NA,NA,Brassica juncea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4608,Vegetables,Garlic,Regular,All Sizes,NA,NA,NA,Allium sativum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4609,Vegetables,Garlic,Elephant,All Sizes,NA,NA,NA,Allium ampeloprasum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4610,Vegetables,Garlic,Retailer Assigned,All Sizes,NA,NA,NA,Allium sativum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4611,Vegetables,Garlic,Retailer Assigned,All Sizes,NA,NA,NA,Allium sativum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4612,Vegetables,Ginger Root,Regular,All Sizes,NA,NA,NA,Zingiber officinale,NA,1999-12-31,1999-12-31,NA,NA,NA
+4613,Vegetables,Ginger Root,Retailer Assigned,All Sizes,NA,NA,NA,Zingiber officinale,NA,1999-12-31,1999-12-31,NA,NA,NA
+4614,Vegetables,Greens,Collard,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4615,Vegetables,Greens,Dandelion,All Sizes,NA,NA,NA,Taraxacum official,NA,1999-12-31,1999-12-31,NA,NA,NA
+4616,Vegetables,Greens,Mustard (Synonymous with Gai (Gui) Choy),All Sizes,NA,NA,NA,Braccia juncea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4617,Vegetables,Greens,Polk Greens,All Sizes,NA,NA,NA,Brassica spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4618,Vegetables,Greens,Texas Mustard,All Sizes,NA,NA,NA,Brassica carinato,NA,1999-12-31,1999-12-31,NA,NA,NA
+4619,Vegetables,Greens,Turnip,All Sizes,NA,NA,NA,Brassica rapa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4620,Vegetables,Greens,Retailer Assigned,All Sizes,NA,NA,NA,Brassica spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4621,Vegetables,Greens,Retailer Assigned,All Sizes,NA,NA,NA,Brassica spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4622,Vegetables,Greens,Retailer Assigned,All Sizes,NA,NA,NA,Brassica spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4623,Vegetables,Greens,Retailer Assigned,All Sizes,NA,NA,NA,Brassica spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4624,Vegetables,Greens,Retailer Assigned,All Sizes,NA,NA,NA,Brassica spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4625,Vegetables,Horseradish Root,NA,All Sizes,NA,NA,NA,Armoracia rusticana,NA,1999-12-31,1999-12-31,NA,NA,NA
+4626,Vegetables,Jicama/Yam Bean,NA,All Sizes,NA,NA,NA,Pachyrhizus erosus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4627,Vegetables,Kale,NA,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4628,Vegetables,Kohlrabi,NA,All Sizes,NA,NA,NA,Brassica oleracea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4629,Vegetables,Leeks,Regular,All Sizes,NA,NA,"This code can be used anyplace in the globe; however, there are other codes for this item that can be used outside of North America.",Allium ampeloprasum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4630,Vegetables,Leeks,Baby,All Sizes,NA,NA,"This code can be used anyplace in the globe; however, there are other codes for this item that can be used outside of North America.",Allium ampeloprasum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4631,Vegetables,Lettuce,Bibb/Flat/Round,All Sizes,NA,NA,NA,Lactuca sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4632,Vegetables,Lettuce,Boston/Butter,All Sizes,NA,NA,NA,Lactuca sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4633,Vegetables,Lettuce,Hydroponic,All Sizes,NA,NA,NA,Lactuca sativa,NA,2018-10-08,1999-12-31,NA,NA,NA
+4634,Vegetables,Lettuce,Iceberg,All Sizes,NA,NA,Restricted for items grown east of the Mississippi River in the U.S or east of the Ontario/Manitoba border in Canada.,Lactuca sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4635,Fruits,Grapes,Red Seedless (All others not listed under red seedless),All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4636,Fruits,Grapes,Red Globe,All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4637,Fruits,Grapes,Red Seeded (All others not listed above),All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4638,Fruits,Grapes,Fantasy/Marroo,All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4639,Vegetables,Lettuce,Mache,All Sizes,NA,NA,NA,Lactuca sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4640,Vegetables,Lettuce,Romaine/Cos,All Sizes,NA,NA,NA,Lactuca sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4641,Vegetables,Lettuce,Retailer Assigned,All Sizes,NA,NA,NA,Lactuca sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4642,Vegetables,Lettuce,Retailer Assigned,All Sizes,NA,NA,NA,Lactuca sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4643,Vegetables,Lettuce,Retailer Assigned,All Sizes,NA,NA,NA,Lactuca sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4644,Vegetables,Malanga,NA,All Sizes,NA,NA,NA,Xanthosoma spp,NA,2018-10-08,1999-12-31,NA,NA,NA
+4645,Vegetables,Mushrooms,"Regular, Button",Small,NA,Less than 40mm diameter,NA,Agaricus bisporus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4646,Vegetables,Mushrooms,Black Forest,All Sizes,NA,NA,NA,Agaricus bisporus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4647,Vegetables,Mushrooms,Chanterelle,All Sizes,NA,NA,NA,Chanterella cibarius,NA,2018-10-08,1999-12-31,NA,NA,NA
+4648,Vegetables,Mushrooms,Cremini/Brown/Swiss Brown,All Sizes,NA,NA,NA,Agaricus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4649,Vegetables,Mushrooms,Oyster,All Sizes,NA,NA,NA,Pleuotus ostreatus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4650,Vegetables,Mushrooms,"Portabella (Synonymous with Cremini, Brown, Swiss Brown Mushrooms)",All Sizes,NA,NA,NA,Agaricus bisporus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4651,Vegetables,Mushrooms,Shiitake,All Sizes,NA,NA,NA,Lentinus edodes,NA,1999-12-31,1999-12-31,NA,NA,NA
+4652,Vegetables,Mushrooms,Wood Ear,All Sizes,NA,NA,NA,Auricularia auricula,NA,1999-12-31,1999-12-31,NA,NA,NA
+4653,Vegetables,Mushrooms,Retailer Assigned,All Sizes,NA,NA,NA,Agaricus bisporus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4654,Vegetables,Mushrooms,Retailer Assigned,All Sizes,NA,NA,NA,Agaricus bisporus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4655,Vegetables,Okra,Regular (Green),All Sizes,NA,NA,NA,Abelmoschus esculentus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4656,Vegetables,Okra,Chinese,All Sizes,NA,NA,NA,Luffa acutangula,NA,1999-12-31,1999-12-31,NA,NA,NA
+4657,Vegetables,Okra,Red,All Sizes,NA,NA,NA,A.esculentus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4658,Vegetables,Onions,Boiling,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4659,Vegetables,Onions,Bulb,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4660,Vegetables,Onions,Pearl,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4661,Vegetables,Onions,"Pickling, White",All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4662,Vegetables,Onions,Shallots,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4663,Vegetables,Onions,White,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4664,Vegetables,Tomatoes,"Regular - Red, On the Vine (Truss)",All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4665,Vegetables,Onions,Yellow/Brown,Small,2 3/4 size and smaller,Min diameter less than 75mm,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4666,Vegetables,Onions,Retailer Assigned,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4667,Vegetables,Onions,Retailer Assigned,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4668,Vegetables,Onions,Retailer Assigned,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4669,Vegetables,Onions,Retailer Assigned,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4670,Vegetables,Onions,Retailer Assigned,All Sizes,NA,NA,NA,Allium spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4671,Vegetables,Parsley Root(Hamburg Parsley),NA,All Sizes,NA,NA,NA,Petroselinum crispum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4672,Vegetables,Parsnip,NA,All Sizes,NA,NA,NA,Pastinaca sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4673,Vegetables,Peas,Blackeyed,All Sizes,NA,NA,NA,Vigna unguiculata,NA,1999-12-31,1999-12-31,NA,NA,NA
+4674,Vegetables,Peas,Green,All Sizes,NA,NA,NA,Pisum sativum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4675,Vegetables,Peas,Sugar Snap,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4676,Vegetables,Peas,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4677,Vegetables,Peppers (Capsicums),Anaheim (Green and Red),All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4678,Vegetables,Peppers (Capsicums),Banana (Yellow Long),All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4679,Vegetables,Peppers (Capsicums),"Bell, Field Grown - Brown",All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4680,Vegetables,Peppers (Capsicums),"Bell, Field Grown - Golden (Yellow)",All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4681,Vegetables,Peppers (Capsicums),"Bell, Field Grown - Green",Small,med. size and smaller,Min diameter less than 65mm,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4682,Vegetables,Peppers (Capsicums),"Bell, Field Grown - Orange",All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4683,Vegetables,Peppers (Capsicums),"Bell, Field Grown - Purple",All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4684,Vegetables,Peppers (Capsicums),"Bell, Field Grown - White",All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4685,Vegetables,Peppers (Capsicums),Chili - Dried,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4686,Vegetables,Peppers (Capsicums),Chili - Green,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4687,Vegetables,Peppers (Capsicums),Cubanelle,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4688,Vegetables,Peppers (Capsicums),"Bell, Greenhouse - Red",All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4689,Vegetables,Peppers (Capsicums),"Bell, Greenhouse - Yellow",All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4690,Vegetables,Peppers (Capsicums),Hot (Hungarian Hot),All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4691,Vegetables,Peppers (Capsicums),Hot Mixed,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4692,Vegetables,Peppers (Capsicums),Hungarian Wax,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4693,Vegetables,Peppers (Capsicums),Jalapeno - Green/Mexican Green,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4694,Vegetables,Peppers (Capsicums),Jalapeno - Red/Mexican Red,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4695,Vegetables,Peppers (Capsicums),Japanese - Red,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4696,Vegetables,Peppers (Capsicums),Long Hot - Green,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4697,Vegetables,Peppers (Capsicums),Long Hot - Red,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4698,Vegetables,Peppers (Capsicums),Morita Chili,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4699,Vegetables,Peppers (Capsicums),Negro,All Sizes,NA,NA,NA,Capsicum spp.,NA,2018-10-08,1999-12-31,NA,NA,NA
+4700,Vegetables,Peppers (Capsicums),New Mexico,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4701,Vegetables,Peppers (Capsicums),Pasilla - Green,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4702,Vegetables,Peppers (Capsicums),Pasilla - Red,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4703,Vegetables,Peppers (Capsicums),Pasilla Pod,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4704,Vegetables,Peppers (Capsicums),Pinole,All Sizes,NA,NA,NA,Capsicum spp.,NA,2018-10-08,1999-12-31,NA,NA,NA
+4705,Vegetables,Peppers (Capsicums),Poblano,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4706,Vegetables,Peppers (Capsicums),Red Cheese,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4707,Vegetables,Peppers (Capsicums),Red Finger,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4708,Vegetables,Peppers (Capsicums),Red Pimiento/ Red Sweet Long,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4709,Vegetables,Peppers (Capsicums),Serrano,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4710,Vegetables,Peppers (Capsicums),Retailer Assigned,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4711,Vegetables,Peppers (Capsicums),Retailer Assigned,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4712,Vegetables,Peppers (Capsicums),Retailer Assigned,All Sizes,NA,NA,NA,Capsicum spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4713,Vegetables,Peppers (Capsicums),Retailer Assigned,All Sizes,NA,NA,NA,Capsicum spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4714,Vegetables,Peppers (Capsicums),Retailer Assigned,All Sizes,NA,NA,NA,Capsicum spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4715,Vegetables,Peppers (Capsicums),Retailer Assigned,All Sizes,NA,NA,NA,Capsicum spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4716,Vegetables,Peppers (Capsicums),Retailer Assigned,All Sizes,NA,NA,NA,Capsicum spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4717,Vegetables,Peppers (Capsicums),Retailer Assigned,All Sizes,NA,NA,NA,Capsicum spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4718,Vegetables,Peppers (Capsicums),Retailer Assigned,All Sizes,NA,NA,NA,Capsicum spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4719,Vegetables,Peppers (Capsicums),Retailer Assigned,All Sizes,NA,NA,NA,Capsicum spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4720,Vegetables,Peppers (Capsicums),Retailer Assigned,All Sizes,NA,NA,NA,Capsicum spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4721,Vegetables,Peppers (Capsicums),Retailer Assigned,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4722,Vegetables,Peppers (Capsicums),Retailer Assigned,All Sizes,NA,NA,NA,Capsicum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4723,Vegetables,Potato,Creamer - Red,All Sizes,NA,NA,NA,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4724,Vegetables,Potato,Creamer - White,All Sizes,NA,NA,NA,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4725,Vegetables,Potato,Russet,All Sizes,NA,NA,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4726,Vegetables,Potato,Long - White,All Sizes,NA,NA,NA,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4727,Vegetables,Potato,Yellow,All Sizes,NA,NA,NA,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4728,Vegetables,Potato,Retailer Assigned,All Sizes,NA,NA,NA,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4729,Vegetables,Potato,Retailer Assigned,All Sizes,NA,NA,NA,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4730,Vegetables,Potato,Retailer Assigned,All Sizes,NA,NA,NA,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4731,Vegetables,Potato,Retailer Assigned,All Sizes,NA,NA,NA,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4732,Vegetables,Potato,Retailer Assigned,All Sizes,NA,NA,NA,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4733,Vegetables,Potato,Retailer Assigned,All Sizes,NA,NA,NA,Solanum tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4734,Vegetables,Pumpkin,Mini,All Sizes,NA,NA,NA,Cucurbita pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4735,Vegetables,Pumpkin,Regular,All Sizes,NA,NA,NA,Cucurbita pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4736,Vegetables,Pumpkin,Retailer Assigned,All Sizes,NA,NA,NA,Cucurbita pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4737,Vegetables,Pumpkin,Retailer Assigned,All Sizes,NA,NA,NA,Cucurbita pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4738,Vegetables,Radicchio,NA,All Sizes,NA,NA,NA,Cichorium intybus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4739,Vegetables,Radish,Black,All Sizes,NA,NA,NA,Raphanus sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4740,Vegetables,Radish,Bunched White,All Sizes,NA,NA,NA,Raphanus sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4741,Vegetables,Radish,Italian Red,All Sizes,NA,NA,NA,Raphanus sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4742,Vegetables,Radish,Red,All Sizes,NA,NA,NA,Raphanus sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4743,Vegetables,Radish,White/Icicle,All Sizes,NA,NA,NA,Raphanus sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4744,Vegetables,Radish,Retailer Assigned,All Sizes,NA,NA,NA,Raphanus sativus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4745,Vegetables,Rhubarb,Regular,All Sizes,NA,NA,NA,Rheem X hybridum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4746,Vegetables,Rhubarb,Retailer Assigned,All Sizes,NA,NA,NA,Rheem X hybridum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4747,Vegetables,Rutabagas (Swede),Regular,All Sizes,NA,NA,NA,Brassica napus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4748,Vegetables,Rutabagas (Swede),Retailer Assigned,All Sizes,NA,NA,NA,Brassica napus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4749,Vegetables,Spinach,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4750,Vegetables,Squash,Acorn/Table Queen,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4751,Vegetables,Squash,Acorn - Golden,All Sizes,NA,NA,NA,C.pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4752,Vegetables,Squash,Acorn - Swan White Table Queen,All Sizes,NA,NA,NA,C.pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4753,Vegetables,Squash,Australian Blue,All Sizes,NA,NA,NA,C.maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4754,Vegetables,Squash,Baby Scallopini,All Sizes,NA,NA,NA,C.pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4755,Vegetables,Squash,Baby Summer (Green),All Sizes,NA,NA,NA,C.pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4756,Vegetables,Squash,Baby Green Zucchini/Courgette,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4757,Vegetables,Squash,Banana,All Sizes,NA,NA,NA,C.maxima,NA,2018-10-08,1999-12-31,NA,NA,NA
+4758,Vegetables,Squash,Buttercup,All Sizes,NA,NA,NA,C.maxima,NA,2018-10-08,1999-12-31,NA,NA,NA
+4759,Vegetables,Squash,Butternut,All Sizes,NA,NA,NA,C.maxima,NA,2018-10-08,1999-12-31,NA,NA,NA
+4760,Vegetables,Squash,Calabaza,All Sizes,NA,NA,NA,C.moschata,NA,1999-12-31,1999-12-31,NA,NA,NA
+4761,Vegetables,Squash,Chayote/Choko,All Sizes,NA,NA,NA,Sechium edule,NA,1999-12-31,1999-12-31,NA,NA,NA
+4762,Vegetables,Artichokes,NA,Extra Large,24 size and larger,NA,NA,Cynara scolymus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4763,Vegetables,Squash,Delicata/Sweet Potato,All Sizes,NA,NA,NA,C.maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4764,Vegetables,Squash,(Sweet) Dumpling,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4765,Vegetables,Squash,Gem,All Sizes,NA,NA,NA,C.pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4766,Vegetables,Squash,Golden Delicious,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4767,Vegetables,Squash,Golden Nugget,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4768,Vegetables,Squash,Hubbard,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4769,Vegetables,Squash,Kabocha,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4770,Fruits,Avocados,Hass,All Sizes,36 size and larger,Average Fruit Weight = 315g and above,NA,Persea americana,NA,1999-12-31,1999-12-31,NA,NA,NA
+4771,Fruits,Avocados,Green,Medium,20 and 28 size,NA,Restricted for items grown east of the Mississippi River in the U.S. or east of the Ontario/Manitoba border in Canada.,Persea americana,NA,2018-10-08,1999-12-31,NA,NA,NA
+4772,Vegetables,Peppers (Capsicums),Chili - Yellow,All Sizes,NA,NA,NA,Capsicum spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4773,Vegetables,Squash,Patty Pan/Summer,All Sizes,NA,NA,NA,C.pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4774,Vegetables,Squash,Red Kuri,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4775,Vegetables,Squash,Scallopini,All Sizes,NA,NA,NA,C.pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4776,Vegetables,Squash,Spaghetti/Vegetable Spaghetti,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4777,Vegetables,Squash,Sunburst (Yellow),All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4778,Vegetables,Tomatoes,Regular - Yellow,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4779,Vegetables,Squash,Sweet Mama,All Sizes,NA,NA,NA,C.pepo x C.maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4780,Vegetables,Squash,Turban,All Sizes,NA,NA,NA,C.maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4781,Vegetables,Squash,White,All Sizes,NA,NA,NA,C.pepo,NA,1999-12-31,1999-12-31,NA,NA,NA
+4782,Vegetables,Squash,Yellow - Straightneck,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4783,Vegetables,"Bitter Melon/Bitter Gourd, Foo Qua",Foo Qua,All Sizes,NA,NA,NA,Momordica charantia,NA,1999-12-31,1999-12-31,NA,NA,NA
+4784,Vegetables,Squash,Yellow - Crookneck,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4785,Vegetables,Squash,Retailer Assigned,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4786,Vegetables,Squash,Retailer Assigned,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4787,Vegetables,Squash,Retailer Assigned,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4788,Vegetables,Squash,Retailer Assigned,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4789,Vegetables,Squash,Retailer Assigned,All Sizes,NA,NA,NA,C. pepo/C. maxima,NA,1999-12-31,1999-12-31,NA,NA,NA
+4790,Vegetables,Sugar Cane,NA,All Sizes,NA,NA,NA,Saccharum officinarum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4791,Vegetables,Sunchokes (Jerusalem Artichokes),NA,All Sizes,NA,NA,NA,Helianthus tuberosum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4792,Vegetables,Tamarillo,Golden,All Sizes,NA,NA,NA,Cyphomandra betacea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4793,Vegetables,Tamarillo,Red,All Sizes,NA,NA,NA,Cyphomandra betacea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4794,Vegetables,Taro Root (Dasheen),NA,Small,NA,NA,NA,Colocasia esculeta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4795,Vegetables,Taro Root (Dasheen),NA,Large,NA,NA,NA,Colocasia esculeta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4796,Vegetables,Tomatoes,Cherry - Red,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4797,Vegetables,Tomatoes,Cherry - Yellow,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4798,Vegetables,Tomatoes,Greenhouse/Hydroponic/Regular - Red,Small,6x6 size and smaller,Less than 70mm diameter,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4799,Vegetables,Tomatoes,Greenhouse/Hydroponic/Regular - Red,Large,5x6 size and larger,Diameter 70mm and above,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4800,Vegetables,Tomatoes,Native/Home Grown,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4801,Vegetables,Tomatoes,Tomatillos/Husk Tomatoes,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4802,Vegetables,Tomatoes,Dried,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4803,Vegetables,Tomatoes,Teardrop/Pear - Red,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4804,Vegetables,Tomatoes,Teardrop/Pear - Yellow,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4805,Vegetables,Tomatoes,"Vine Ripe, Regular - Red",Small,6X6 and smaller,Less than 70mm diameter,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4806,Vegetables,Tomatoes,Retailer Assigned,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4807,Vegetables,Tomatoes,Retailer Assigned,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4808,Vegetables,Tomatoes,Retailer Assigned,All Sizes,NA,NA,NA,Lycopersicon esculenta,NA,1999-12-31,1999-12-31,NA,NA,NA
+4809,Vegetables,Turnip,Baby,All Sizes,NA,NA,NA,Brassica rapa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4810,Vegetables,Turnip,Bunch/Banded,All Sizes,NA,NA,NA,Brassica rapa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4811,Vegetables,Turnip,Purple Top,All Sizes,NA,NA,NA,Brassica rapa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4812,Vegetables,Turnip,White,All Sizes,NA,NA,NA,Brassica rapa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4813,Vegetables,Turnip,Retailer Assigned,All Sizes,NA,NA,NA,Brassica rapa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4814,Vegetables,Water Chestnuts,NA,All Sizes,NA,NA,NA,Eleocharis dulcis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4815,Vegetables,Watercress,NA,All Sizes,NA,NA,NA,Rorippa nasturtium-aquaticum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4816,Vegetables,Sweet Potato/Yam/Kumara,Golden,All Sizes,NA,NA,Terminology changed to include both sweet potato and yam to avoid confusion in marketplace,Ipomoea batato,NA,2009-06-10,2009-06-10,NA,NA,NA
+4817,Vegetables,Sweet Potato/Yam/Kumara,Red/Orangy Red Flesh,Large,jumbo,NA,Terminology changed to include both sweet potato and yam to avoid confusion in marketplace,Ipomoea batato,NA,2009-06-10,2009-06-10,NA,NA,NA
+4818,Vegetables,Name,Retailer Assigned,All Sizes,NA,NA,NA,Dioscorea trifidia,NA,2009-06-10,2009-06-10,NA,NA,NA
+4819,Vegetables,Yuca Root/Cassava/Manioc,NA,All Sizes,NA,NA,NA,Manihot esculenta,NA,2011-06-09,2011-06-09,NA,NA,NA
+4820,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4821,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4822,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4823,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4824,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4825,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4826,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4827,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4828,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4829,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4830,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4831,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4832,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4833,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4834,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4835,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4836,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4837,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4838,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4839,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4840,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4841,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4842,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4843,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4844,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4845,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4846,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4847,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4848,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4849,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4850,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4851,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4852,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4853,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4854,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4855,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4856,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4857,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4858,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4859,Vegetables,Other Vegetables,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4860,Dried Fruits,Apple Slices,Dried ,All Sizes,NA,NA,NA,NA,NA,2018-10-08,1999-12-31,NA,NA,NA
+4861,Dried Fruits,Apricots,Dried,All Sizes,NA,NA,NA,Prunus armeniaca,NA,1999-12-31,1999-12-31,NA,NA,NA
+4862,Dried Fruits,Dates,Dried,All Sizes,NA,NA,NA,Phoenix dactylifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4863,Dried Fruits,Dates,Retailer Assigned - Dried,All Sizes,NA,NA,NA,Phoenix dactylifera,NA,2020-03-09,1999-12-31,NA,NA,NA
+4864,Dried Fruits,Pineapple,Dried,All Sizes,NA,NA,Sizes for pineapple based on two-layer lug.,Ananas comosus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4865,Dried Fruits,Prunes,Regular (Dried Fruit),All Sizes,NA,NA,NA,Prunus domestica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4866,Dried Fruits,Prunes,Pitted (Dried Fruit),All Sizes,NA,NA,NA,Prunus domestica,NA,1999-12-31,1999-12-31,NA,NA,NA
+4867,Dried Fruits,Prunes,Retailer Assigned - Dried,All Sizes,NA,NA,NA,Prunus domestica,NA,2020-03-09,1999-12-31,NA,NA,NA
+4868,Dried Fruits,Raisins,Black (Dried Fruit),All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4869,Dried Fruits,Raisins,Golden/Yellow (Dried Fruit),All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4870,Dried Fruits,Other Dried Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4871,Dried Fruits,Other Dried Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4872,Dried Fruits,Other Dried Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4873,Dried Fruits,Other Dried Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4874,Dried Fruits,Other Dried Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4875,Dried Fruits,Other Dried Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4876,Dried Fruits,Other Dried Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4877,Dried Fruits,Other Dried Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4878,Dried Fruits,Other Dried Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4879,Dried Fruits,Other Dried Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4880,Dried Fruits,Other Dried Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4881,Dried Fruits,Other Dried Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4882,Dried Fruits,Other Dried Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4883,Dried Fruits,Other Dried Fruits,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4884,Herbs,Arugula/Rocket,NA,All Sizes,NA,NA,NA,Eruca versicara,NA,1999-12-31,1999-12-31,NA,NA,NA
+4885,Herbs,Basil,NA,All Sizes,NA,NA,NA,Ocimum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4886,Herbs,Basil,Opal,All Sizes,NA,NA,NA,Ocimum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4887,Herbs,Basil,Sweet,All Sizes,NA,NA,NA,Ocimum spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4888,Herbs,Chives,NA,All Sizes,NA,NA,NA,Allium Tuberosum,NA,2015-12-21,1999-12-31,NA,NA,NA
+4889,Herbs,Cilantro (Chinese Parsley/Coriander),NA,All Sizes,NA,NA,NA,Coriandrum sativum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4890,Fruits,Pears,Chinese Yali,All Sizes,NA,NA,NA,Pyrus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4891,Herbs,Dill,NA,All Sizes,NA,NA,NA,Anethum graveolens,NA,1999-12-31,1999-12-31,NA,NA,NA
+4892,Herbs,Dill,Baby,All Sizes,NA,NA,NA,Anethum graveolens,NA,1999-12-31,1999-12-31,NA,NA,NA
+4893,Herbs,Dill,Pickling,All Sizes,NA,NA,NA,Anethum graveolens,NA,1999-12-31,1999-12-31,NA,NA,NA
+4894,Herbs,Lemongrass,NA,All Sizes,NA,NA,NA,Cymbopogon citratus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4895,Herbs,Marjoram,NA,All Sizes,NA,NA,NA,Origanum spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4896,Herbs,Mint,NA,All Sizes,NA,NA,NA,Mentha spp,NA,1999-12-31,1999-12-31,NA,NA,NA
+4897,Herbs,Oregano,NA,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4898,Herbs,Oyster Plant/Salsify,NA,All Sizes,NA,NA,NA,Tragopogan porrifolius,NA,1999-12-31,1999-12-31,NA,NA,NA
+4899,Herbs,Parsley,Regular/Curly,All Sizes,NA,NA,NA,Petroselinum crispum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4901,Herbs,Parsley,Italian/Continental/French,All Sizes,NA,NA,NA,Petroselinum crispum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4902,Herbs,Parsley,Retailer Assigned,All Sizes,NA,NA,NA,Petroselinum crispum,NA,1999-12-31,1999-12-31,NA,NA,NA
+4903,Herbs,Rosemary,NA,All Sizes,NA,NA,NA,Rosemarinus officinalis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4904,Herbs,Sage,NA,All Sizes,NA,NA,NA,Salvia officinalis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4905,Herbs,Sorrel,NA,All Sizes,NA,NA,NA,Rumex spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4906,Herbs,Tarragon,NA,All Sizes,NA,NA,NA,Artemisia dracunculus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4907,Herbs,Thyme,NA,All Sizes,NA,NA,NA,Thymus vulgaris,NA,1999-12-31,1999-12-31,NA,NA,NA
+4908,Herbs,Vanilla Bean,NA,All Sizes,NA,NA,NA,Vanilla planifolia,NA,2018-10-08,1999-12-31,NA,NA,NA
+4909,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4910,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4911,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4912,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4913,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4914,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4915,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4916,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4917,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4918,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4919,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4920,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4921,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4922,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4923,Herbs,Other Herbs,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4924,Nuts,Almonds,NA,All Sizes,NA,NA,NA,Prunus dulcis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4925,Nuts,Almonds,Retailer Assigned,All Sizes,NA,NA,NA,Prunus dulcis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4926,Nuts,Brazilnuts,NA,All Sizes,NA,NA,NA,Berthollettia excelsa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4927,Nuts,Chestnuts,NA,All Sizes,NA,NA,NA,Castanea sativa,NA,1999-12-31,1999-12-31,NA,NA,NA
+4928,Nuts,Filberts,Cobnut/Hazelnut,All Sizes,NA,NA,NA,Corylus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4929,Nuts,Mixed Nuts,NA,All Sizes,NA,NA,NA,NA,NA,2012-06-01,2012-06-01,NA,NA,NA
+4930,Nuts,Peanuts,NA,All Sizes,NA,NA,NA,Arachis hypogaea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4931,Nuts,Peanuts,Raw,All Sizes,NA,NA,NA,Arachis hypogaea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4932,Nuts,Peanuts,Roasted - Salted,All Sizes,NA,NA,NA,Arachis hypogaea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4933,Nuts,Peanuts,Roasted - Unsalted,All Sizes,NA,NA,NA,Arachis hypogaea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4934,Nuts,Peanuts,Retailer Assigned,All Sizes,NA,NA,NA,Arachis hypogaea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4935,Nuts,Peanuts,Retailer Assigned,All Sizes,NA,NA,NA,Arachis hypogaea,NA,1999-12-31,1999-12-31,NA,NA,NA
+4936,Nuts,Pecans,NA,All Sizes,NA,NA,NA,Carya illinoiensis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4937,Nuts,Pecans,Retailer Assigned,All Sizes,NA,NA,NA,Carya illinoiensis,NA,1999-12-31,1999-12-31,NA,NA,NA
+4938,Nuts,Pine Nuts (Pignoli),NA,All Sizes,NA,NA,NA,Pinus spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4939,Nuts,Pistachio,Natural,All Sizes,NA,NA,NA,Pistacia vera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4940,Nuts,Pistachio,Red,All Sizes,NA,NA,NA,Pistacia vera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4941,Nuts,Pistachio,Retailer Assigned,All Sizes,NA,NA,NA,Pistacia vera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4942,Nuts,Sunflower Seeds,NA,All Sizes,NA,NA,NA,Helianthus annus,NA,1999-12-31,1999-12-31,NA,NA,NA
+4943,Nuts,Walnuts,Regular,All Sizes,NA,NA,NA,Juglans spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4944,Nuts,Walnuts,Black,All Sizes,NA,NA,NA,Juglans spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4945,Nuts,Walnuts,White,All Sizes,NA,NA,NA,Juglans spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4946,Nuts,Walnuts,Retailer Assigned,All Sizes,NA,NA,NA,Juglans spp.,NA,1999-12-31,1999-12-31,NA,NA,NA
+4947,Nuts,Other Nuts,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4948,Nuts,Other Nuts,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4949,Nuts,Other Nuts,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4950,Nuts,Other Nuts,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,2020-03-09,1999-12-31,NA,NA,NA
+4951,Nuts,Other Nuts,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4952,Nuts,Other Nuts,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4953,Nuts,Other Nuts,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4954,Nuts,Other Nuts,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4955,Nuts,Other Nuts,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4956,Nuts,Other Nuts,Retailer Assigned,All Sizes,NA,NA,NA,NA,NA,1999-12-31,1999-12-31,NA,NA,NA
+4957,Fruits,Grapes,Blue/Black Seeded (All others not listed above),All Sizes,NA,NA,NA,Vitis vinifera,NA,1999-12-31,1999-12-31,NA,NA,NA
+4958,Fruits,Lemons,NA,Medium,140/165 size,Average Fruit Dimensions = 54mm - under 65mm,NA,Citrus limon,NA,1999-12-31,1999-12-31,NA,NA,NA
+4959,Fruits,Mango,"Red (Includes Tommy Atkins, Kent, Palmer Vandyke, Edward, Hayden)",Large,8 to 10 size,NA,NA,Mangifera indica,NA,2017-01-18,1999-12-31,NA,NA,NA
+4960,Fruits,Pears,Fragrant,All Sizes,NA,NA,NA,Pyrus spp.,NA,2007-05-04,2007-05-04,NA,NA,NA
+4961,Fruits,Mango,Yellow,Large,16 size and larger,NA,NA,Mangifera indica,"(Includes Oro, Ataulfo/Honey Manila varieties)",2007-05-10,2007-05-10,NA,NA,NA
